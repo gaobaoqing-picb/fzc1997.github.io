@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <h2 class="uk-article-title">Supplementary Materials</h2>
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin>
+    {% for entry in spmts %}
+    <div class="uk-width-medium-1-1">
+        <div class="uk-panel uk-panel-box uk-panel-header">	
+            <h2 class="uk-panel-title">{{ entry[0].title|strong|safe }}</h2>
+            <div class="uk-grid uk-grid-collapse" >
+                {% for supples in entry[1] %}
+                <!--<dl class="uk-description-list-line">-->
+                    <!--<dt><a href="{{ supples.link }}">{{ supples.name }}</a></dt>-->
+                    <!--<dd>{{ supples.content }}</dd>-->
+                <!--</dl>-->
+                <div class="uk-width-medium-1-2">
+                    <div class="uk-panel uk-panel-box uk-panel-header">	
+                        <h2 class="uk-panel-title"><a href="{{ supples.link }}">{{ supples.name }}</a></h2>
+                        <p class="uk-article-lead">{{ supples.content }}</p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock content %}
