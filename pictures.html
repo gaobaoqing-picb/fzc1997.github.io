@@ -1,1 +1,29 @@
-templates/pictures.html
+{% extends "base.html" %}
+
+{% block content %}
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <h2 class="uk-article-title">Lab Pictures</h2>
+    </div>
+</div>
+
+{% for year in pictures|groupby('year')|reverse %}
+<!--<div class="uk-grid" data-uk-grid-margin data-uk-scrollspy="{cls:'uk-animation-fade', target:'div > .uk-panel', delay:5, repeat:true}">-->
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <div class="uk-panel">
+            <h2>{{ year.grouper }}</h2>
+        </div>
+        <div class="uk-grid-width-small-1-2 uk-grid-width-medium-1-3 uk-grid-width-large-1-3" data-uk-grid="{gutter: 20}">
+        {% for entry in year.list|sort(attribute='idx', reverse=True) %}
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="{{url_for('static', filename='image/pics/' + entry.image)}}" />
+        <!--</div>-->
+        <!--</div>-->
+        {% endfor %}
+        </div>
+    </div>
+</div>
+{% endfor %}
+{% endblock content %}

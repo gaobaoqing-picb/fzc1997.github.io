@@ -1,1 +1,68 @@
-templates/publications.html
+{% extends "base.html" %}
+
+{% block content %}
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <h2 class="uk-article-title">Publications</h2>
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin>
+
+    <div class="uk-width-medium-3-4">
+        {% for year in publications|groupby('year')|reverse %}
+        <h2 id="{{ year.grouper }}">{{ year.grouper }}:</h2>
+        <ul class="uk-list-space">
+            {% for publication in year.list|sort(attribute='idx', reverse=True) %}
+            <li>{{ publication.title|strong|safe }} 
+                <a href="{{ publication.link }}"><i class="uk-icon-external-link"></i></a>
+                {% if publication.attach %}
+                    <a href="{{ url_for('static', filename='publication_pdf/' + publication.attach) }}"><i class="uk-icon-file-pdf-o"></i></a>
+                {% endif %}
+            </li>
+            {% if publication.points %}
+            <ul class="uk-list-space">
+                {% for point in publication.points|split %}
+                <li>{{ point|strong|safe }}</li>
+                {% endfor %}
+            </ul>
+            {% endif %} {% endfor %}
+        </ul>
+        {% endfor %}
+        <h2 id="before">Before Yang Lab:</h2>
+        <div class="uk-panel uk-panel-box">
+            {{ publication_before_yanglab|markdown }} 
+        </div>
+    </div>
+
+    <div class="uk-width-medium-1-4 uk-hidden-small">
+        <div data-uk-sticky="{top:150}">
+            <!--<div class="uk-panel uk-panel-box" data-uk-sticky="{top:150}">-->
+            <div class="uk-panel uk-panel-box">
+                <h3 class="uk-nav-header">Publication Year</h3>
+                <ul class="uk-nav uk-nav-side" data-uk-scrollspy-nav="{closest:'li', smoothscroll:true}">
+                    {% for year in publications|groupby('year')|reverse %} 
+                    <li><a href="#{{ year.grouper }}">{{ year.grouper }} ({{ year.list|length }})</a></li>
+                    {% endfor %}
+                    <li class="uk-nav-divider"></li>
+                    <li><a href="#before">Before Yang Lab</a></li>
+                </ul>
+            </div>
+            <!--<div class="uk-panel uk-panel-box">-->
+                <!--<h3 class="uk-nav-header">Publication type</h3>-->
+                <!--<div class="uk-form-select" data-uk-form-select>-->
+                    <!--<select>-->
+                        <!--<option value="">article</option>-->
+                        <!--<option value="">review</option>-->
+                    <!--</select>-->
+                <!--</div>-->
+            <!--</div>-->
+        </div>
+
+    </div>
+
+    <div class="uk-width-medium-1-4 uk-hidden-small">
+    </div>
+
+</div>
+{% endblock content %}

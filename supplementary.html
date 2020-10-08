@@ -1,1 +1,22 @@
-templates/supplementary.html
+{% extends "base.html" %}
+
+{% block assets %}
+{{ super() }}
+<script src="{{ url_for('static', filename='js/pdfobject.min.js') }}" type="text/javascript" charset="utf-8"></script>
+{% endblock assets %}
+
+{% block content %}
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <h2 class="uk-article-title">Structure</h2>
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin>
+        <div id="positions"></div>
+        <script>
+            var options = {height: "800px"};
+            PDFObject.embed("{{ url_for('static', filename='image/Chen_Lab_ job_listing_2018.pdf') }}", "#positions", options);
+        </script>
+</div>
+{% endblock content %}
