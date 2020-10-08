@@ -1,0 +1,1854 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="News of Eukaryotic Transcriptomics -- PICB">
+    <meta name="author" content="Eukaryotic Transcriptomics -- PICB">
+    <link rel="shortcut icon" href="/rnomics/yanglab/static/image/favicon.ico">
+    <title>Eukaryotic Transcriptomics (Yang Lab) -- PICB</title>
+
+    
+    <link rel="stylesheet" href="/rnomics/yanglab/static/css/uikit.almost-flat.min.css" type="text/css">
+    <link rel="stylesheet" href="/rnomics/yanglab/static/css/components/sticky.almost-flat.min.css" type="text/css">
+    <script src="/rnomics/yanglab/static/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/rnomics/yanglab/static/js/uikit.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/rnomics/yanglab/static/js/components/sticky.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/rnomics/yanglab/static/js/components/grid.min.js" type="text/javascript" charset="utf-8"></script>
+    
+
+</head>
+
+<body>
+
+    
+
+    <div class="uk-container uk-container-center uk-margin-large-top uk-margin-large-bottom">
+
+        <div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <h1><img src="/rnomics/yanglab/static/image/favicon.png" alt="logo">Eukaryotic Transcriptomics (Yang Lab)</h1>
+        <h2><a class="uk-link-muted" href="http://www.picb.ac.cn">CAS-MPG Partner Institute for Computational Biology</a>, <a class="uk-link-muted" href="http://english.sibs.cas.cn">SIBS</a>, <a class="uk-link-muted" href="http://english.cas.cn">CAS</a></h2>
+    </div>
+</div>
+
+        <nav class="uk-navbar uk-margin-top uk-margin-bottom" data-uk-sticky="{top:-50}">
+    <a class="uk-navbar-brand uk-hidden-small" href="#">Yang Lab</a>
+    <ul class="uk-navbar-nav uk-hidden-small">
+        <li><a href="/rnomics/yanglab/index"><i class="uk-icon-home"></i> Home</a></li>
+       <!-- <li><a href="/rnomics/yanglab/research"><i class="uk-icon-laptop"></i> Research</a></li>  -->
+        <li><a href="/rnomics/yanglab/news"><i class="uk-icon-newspaper-o"></i> News</a></li>
+        
+        <li><a href="/rnomics/yanglab/team"><i class="uk-icon-users"></i> Team</a></li>
+        <li><a href="/rnomics/yanglab/publications"><i class="uk-icon-file-text"></i> Publications</a></li>
+
+        <li><a href="/rnomics/yanglab/awards"><i class="uk-icon-star"></i> Awards</a></li>
+        <li><a href="/rnomics/yanglab/pictures"><i class="uk-icon-picture-o"></i> Pictures</a></li>
+
+        <li><a href="/rnomics/yanglab/resources"><i class="uk-icon-wrench"></i> Resources</a></li>
+        <!--<li><a href="/rnomics/yanglab/SM"><i class="uk-icon-cubes"></i> Supplementary Materials</a></li>-->
+    </ul>
+    <div class="uk-navbar-flip uk-hidden-small">
+        <ul class="uk-navbar-nav">
+            <li><a href="/rnomics/yanglab/login"><i class="uk-icon-user"></i> Login</a></li>
+        </ul>
+    </div>
+    <a href="#nav-offcanvas" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas></a>
+    <div class="uk-navbar-brand uk-navbar-center uk-visible-small">Yang Lab</div>
+</nav>
+
+        <article class="uk-article">
+
+            
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <h2 class="uk-article-title">News</h2>
+    </div>
+</div>
+
+
+<div class="uk-grid" data-uk-grid-margin data-uk-scrollspy="{cls:'uk-animation-fade', target:'div > .uk-panel', delay:5, repeat:true}">
+    <div class="uk-width-1-1">
+        <div class="uk-panel">
+            <h2>2020</h2>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">June:</span>
+                Jia-Lin has passed the dissertation defense! Congratulations!
+                <!---->
+                <!--<a class="uk-icon-info-circle" data-uk-toggle="{target:'#91_news', animation:'uk-animation-slide-left, uk-animation-slide-bottom'}"></a>-->
+                <!---->
+                
+            </p>
+            <!--<div id="91_news" class="uk-hidden">-->
+            <div id="91_news">
+                
+                
+                <div class="uk-text-center">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/2020/GroupPhoto_ZhangJiaLin1_1.jpg" alt="2020/GroupPhoto_ZhangJiaLin1_1.jpg">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/2020/GroupPhoto_ZhangJiaLin%26PIs_1.jpg" alt="2020/GroupPhoto_ZhangJiaLin&amp;PIs_1.jpg">
+                
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">June:</span>
+                Xu-Kai has passed the dissertation defense! Congratulations!
+                <!---->
+                <!--<a class="uk-icon-info-circle" data-uk-toggle="{target:'#90_news', animation:'uk-animation-slide-left, uk-animation-slide-bottom'}"></a>-->
+                <!---->
+                
+            </p>
+            <!--<div id="90_news" class="uk-hidden">-->
+            <div id="90_news">
+                
+                
+                <div class="uk-text-center">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/2020/GroupPhoto_MaXuKai1_1.jpg" alt="2020/GroupPhoto_MaXuKai1_1.jpg">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/2020/GroupPhoto_MaXuKai%26PIs_1.jpg" alt="2020/GroupPhoto_MaXuKai&amp;PIs_1.jpg">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/2020/GroupPhoto_YangLab_2.jpg" alt="2020/GroupPhoto_YangLab_2.jpg">
+                
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">June:</span>
+                Ying, Yi-Chun, Jia and Li has contributed an article in Cell Rep. Congratulations to Ying, Yi-Chun, Jia and Li!
+                <!---->
+                <!--<a class="uk-icon-info-circle" data-uk-toggle="{target:'#89_news', animation:'uk-animation-slide-left, uk-animation-slide-bottom'}"></a>-->
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30700-2"></a>
+                
+            </p>
+            <!--<div id="89_news" class="uk-hidden">-->
+            <div id="89_news">
+                
+                <!--this if is for picture in ther future, may only have picture or-->
+                <!--word-->
+                <p>This work reported the development and application of a new base editor system, BEACON, which combines dCas12a with human APOBEC3A or its engineering version. BEACON induced efficient editing in cells and mouse embryos with basal levels of DNA damage response, RNA off-target mutations and unintended side-products. In the study, a new RNA-editing analysis-pipeline to decode all-twelve-types of RNA-editing, referred to as RADAR, was also constructed to decode any RNA editing, predominantly A-to-I, events in RNA-seq datasets, and to evaluate C-to-U off-target editing in the treatment with BEs.</p>
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">June:</span>
+                Ying and Li has contributed an article in Nat Biotechnol. Congratulations to Ying and Li!
+                <!---->
+                <!--<a class="uk-icon-info-circle" data-uk-toggle="{target:'#88_news', animation:'uk-animation-slide-left, uk-animation-slide-bottom'}"></a>-->
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://www.nature.com/articles/s41587-020-0527-y"></a>
+                
+            </p>
+            <!--<div id="88_news" class="uk-hidden">-->
+            <div id="88_news">
+                
+                <!--this if is for picture in ther future, may only have picture or-->
+                <!--word-->
+                <p>Ying and Li involved in this work to profile clinically-relevant variants in human, which can be potentially targeted by the reported dual adenine and cytosine base editor.</p>
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">April:</span>
+                He-Na and Li has contributed an article in BMC Biology. Congratulations to He-Na and Li!
+                <!---->
+                <!--<a class="uk-icon-info-circle" data-uk-toggle="{target:'#87_news', animation:'uk-animation-slide-left, uk-animation-slide-bottom'}"></a>-->
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-020-00769-5"></a>
+                
+            </p>
+            <!--<div id="87_news" class="uk-hidden">-->
+            <div id="87_news">
+                
+                <!--this if is for picture in ther future, may only have picture or-->
+                <!--word-->
+                <p>This work identifies ~ 1000 candidate m5C sites in the wider transcriptome, most in mRNAs, and further reveals a functional interdependence of cytosine methylation level with mRNA translation.</p>
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">April:</span>
+                Xu-Kai and Li have contributed an article in Cell. Well done! Congratulations to Xu-Kai and Li! Looking forward to the next masterpiece!
+                <!---->
+                <!--<a class="uk-icon-info-circle" data-uk-toggle="{target:'#86_news', animation:'uk-animation-slide-left, uk-animation-slide-bottom'}"></a>-->
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://doi.org/10.1016/j.cell.2020.03.006"></a>
+                
+            </p>
+            <!--<div id="86_news" class="uk-hidden">-->
+            <div id="86_news">
+                
+                <!--this if is for picture in ther future, may only have picture or-->
+                <!--word-->
+                <p>This study suggests how conserved lncRNAs may achieve functional evolution through nonconserved RNA processing.</p>
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">January:</span>
+                Xu-Kai, Meng-Ran and Li has contributed an article in Genomics Proteomics Bioinformatics. Congratulations to Xu-Kai, Meng-Ran and Li!
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://www.sciencedirect.com/science/article/pii/S1672022919301664?via%3Dihub"></a>
+                
+            </p>
+            <!--<div id="85_news" class="uk-hidden">-->
+            <div id="85_news">
+                
+                
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin data-uk-scrollspy="{cls:'uk-animation-fade', target:'div > .uk-panel', delay:5, repeat:true}">
+    <div class="uk-width-1-1">
+        <div class="uk-panel">
+            <h2>2019</h2>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">December:</span>
+                Li has contributed a preview in Cell. Congratulations to Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://www.cell.com/cell/fulltext/S0092-8674(19)31287-5"></a>
+                
+            </p>
+            <!--<div id="84_news" class="uk-hidden">-->
+            <div id="84_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">October:</span>
+                Ying, Yi-Chun, Jia and Li has contributed an article in Genome Biol. Congratulations to Ying, Yi-Chun, Jia and Li!
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1839-4"></a>
+                
+            </p>
+            <!--<div id="83_news" class="uk-hidden">-->
+            <div id="83_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">September:</span>
+                Xu-Kai and Li have contributed an article in Theranostics. Congratulations to Xu-Kai and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.thno.org/v09p3526.htm"></a>
+                
+            </p>
+            <!--<div id="82_news" class="uk-hidden">-->
+            <div id="82_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">September:</span>
+                Ying and Li have contributed an article in Mol Cell. Congratulations to Ying and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://www.cell.com/molecular-cell/fulltext/S1097-2765(19)30630-6"></a>
+                
+            </p>
+            <!--<div id="81_news" class="uk-hidden">-->
+            <div id="81_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">August:</span>
+                Congratulations to Li for winning The National Science Fund for Distinguished Young Scholars! Cheers!!!
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.nsfc.gov.cn/publish/portal0/tab434/info76179.htm"></a>
+                
+            </p>
+            <!--<div id="80_news" class="uk-hidden">-->
+            <div id="80_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">June:</span>
+                Welcome new Research Associate Shi-Yi to join our group!
+                <!---->
+                
+            </p>
+            <!--<div id="79_news" class="uk-hidden">-->
+            <div id="79_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">May:</span>
+                Yang lab and Chen lab had fun at Shanghai Disneyland on the 520 Day!
+                <!---->
+                <!--<a class="uk-icon-info-circle" data-uk-toggle="{target:'#78_news', animation:'uk-animation-slide-left, uk-animation-slide-bottom'}"></a>-->
+                <!---->
+                
+            </p>
+            <!--<div id="78_news" class="uk-hidden">-->
+            <div id="78_news">
+                
+                
+                <div class="uk-text-center">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/2019/20190520-disneyland.png" alt="2019/20190520-disneyland.png">
+                
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">April:</span>
+                Fang, Wei, Kai-Ge and Li have contributed an article in Cell. Well done! Congratulations to Fang, Wei, Kai-Ge and Li! Looking forward to the next masterpiece!
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://www.cell.com/cell/fulltext/S0092-8674(19)30347-2?rss=yes"></a>
+                
+            </p>
+            <!--<div id="77_news" class="uk-hidden">-->
+            <div id="77_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">April:</span>
+                Li has contributed a review in CRISPR J. Congratulations to Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://www.liebertpub.com/doi/10.1089/crispr.2019.0001"></a>
+                
+            </p>
+            <!--<div id="76_news" class="uk-hidden">-->
+            <div id="76_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">April:</span>
+                Li has contributed a news & views in Nat Biotechnol. Congratulations to Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://www.nature.com/articles/s41587-019-0119-x"></a>
+                
+            </p>
+            <!--<div id="75_news" class="uk-hidden">-->
+            <div id="75_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">March:</span>
+                Wei’s first child was born on 3/22! Congratulations on Wei's sweet angel!
+                <!---->
+                <!--<a class="uk-icon-info-circle" data-uk-toggle="{target:'#74_news', animation:'uk-animation-slide-left, uk-animation-slide-bottom'}"></a>-->
+                <!---->
+                
+            </p>
+            <!--<div id="74_news" class="uk-hidden">-->
+            <div id="74_news">
+                
+                
+                <div class="uk-text-center">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/2019/20190322-Wei_baby.png" alt="2019/20190322-Wei_baby.png">
+                
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">January:</span>
+                Rui, Xu-Kai and Li have contributed a chapter of Epitranscriptomics. Congratulations!
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://link.springer.com/protocol/10.1007/978-1-4939-8808-2_10"></a>
+                
+            </p>
+            <!--<div id="72_news" class="uk-hidden">-->
+            <div id="72_news">
+                
+                
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin data-uk-scrollspy="{cls:'uk-animation-fade', target:'div > .uk-panel', delay:5, repeat:true}">
+    <div class="uk-width-1-1">
+        <div class="uk-panel">
+            <h2>2018</h2>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">December:</span>
+                Welcome new graduate students Yun-Ni and Pei-Hong to join our group!
+                <!---->
+                
+            </p>
+            <!--<div id="73_news" class="uk-hidden">-->
+            <div id="73_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">November:</span>
+                Zheng has passed the dissertation defense! Congratulations to Zheng!
+                <!---->
+                <!--<a class="uk-icon-info-circle" data-uk-toggle="{target:'#71_news', animation:'uk-animation-slide-left, uk-animation-slide-bottom'}"></a>-->
+                <!---->
+                
+            </p>
+            <!--<div id="71_news" class="uk-hidden">-->
+            <div id="71_news">
+                
+                
+                <div class="uk-text-center">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/2018/20181115/Zheng_dissertation-group_photo.png" alt="2018/20181115/Zheng_dissertation-group_photo.png">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/2018/20181115/Zheng_dissertation-all_judges.png" alt="2018/20181115/Zheng_dissertation-all_judges.png">
+                
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">September:</span>
+                Yang lab and Chen lab had a wonderful time together in the trampoline park.
+                <!---->
+                <!--<a class="uk-icon-info-circle" data-uk-toggle="{target:'#70_news', animation:'uk-animation-slide-left, uk-animation-slide-bottom'}"></a>-->
+                <!---->
+                
+            </p>
+            <!--<div id="70_news" class="uk-hidden">-->
+            <div id="70_news">
+                
+                
+                <div class="uk-text-center">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/2018/20180929/trampoline_park_1.png" alt="2018/20180929/trampoline_park_1.png">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/2018/20180929/trampoline_park_2.png" alt="2018/20180929/trampoline_park_2.png">
+                
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">September:</span>
+                Meng-Ran and Li have contributed an article in Nat Cell Biol. Congratulations to Meng-Ran and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://www.nature.com/articles/s41556-018-0204-2"></a>
+                
+            </p>
+            <!--<div id="69_news" class="uk-hidden">-->
+            <div id="69_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">September:</span>
+                Rui, Xu-Kai, Guo-Wei and Li have contributed a database article  in Genomics Proteomics Bioinformatics. Congratulations to Rui, Xu-Kai, Guo-Wei and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://www.sciencedirect.com/science/article/pii/S1672022918302596"></a>
+                
+            </p>
+            <!--<div id="68_news" class="uk-hidden">-->
+            <div id="68_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">August:</span>
+                Ying, Jia and Li have contributed an article in Nat Biotechnol. Congratulations to Ying, Jia and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://www.nature.com/articles/nbt.4198"></a>
+                
+            </p>
+            <!--<div id="67_news" class="uk-hidden">-->
+            <div id="67_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">August:</span>
+                Zheng and Li have contributed an article in PLoS Biol. Congratulations.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2001493"></a>
+                
+            </p>
+            <!--<div id="66_news" class="uk-hidden">-->
+            <div id="66_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">July:</span>
+                Li has contributed a review in Mol Cell. Congratulations to Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://www.cell.com/molecular-cell/fulltext/S1097-2765(18)30509-4"></a>
+                
+            </p>
+            <!--<div id="65_news" class="uk-hidden">-->
+            <div id="65_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">July:</span>
+                Welcome new Research Associate Yi-Chun to join our group!
+                <!---->
+                
+            </p>
+            <!--<div id="64_news" class="uk-hidden">-->
+            <div id="64_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">May:</span>
+                Qin has passed the dissertation defense! Congratulations!
+                <!---->
+                <!--<a class="uk-icon-info-circle" data-uk-toggle="{target:'#63_news', animation:'uk-animation-slide-left, uk-animation-slide-bottom'}"></a>-->
+                <!---->
+                
+            </p>
+            <!--<div id="63_news" class="uk-hidden">-->
+            <div id="63_news">
+                
+                
+                <div class="uk-text-center">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/biye/qin/pi_qin_320x240.jpg" alt="biye/qin/pi_qin_320x240.jpg">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/biye/qin/lab_qin1_320x240.jpg" alt="biye/qin/lab_qin1_320x240.jpg">
+                
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">March:</span>
+                Ying, Jia and Li have contributed an article  in Nat Biotechnol. Congratulations to Ying, Jia and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://www.nature.com/articles/nbt.4102"></a>
+                
+            </p>
+            <!--<div id="62_news" class="uk-hidden">-->
+            <div id="62_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">January:</span>
+                Jian-Feng, Qin and Li have contributed a short article in Mol Cell. Congratulations to Jian-Feng, Qin and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.cell.com/molecular-cell/fulltext/S1097-2765(17)30934-6"></a>
+                
+            </p>
+            <!--<div id="61_news" class="uk-hidden">-->
+            <div id="61_news">
+                
+                
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin data-uk-scrollspy="{cls:'uk-animation-fade', target:'div > .uk-panel', delay:5, repeat:true}">
+    <div class="uk-width-1-1">
+        <div class="uk-panel">
+            <h2>2017</h2>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">December:</span>
+                Wei, Jia and Li have contributed an article in Nat Struct Mol Biol. Congratulations to Wei, Jia and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://www.nature.com/articles/s41594-017-0004-6"></a>
+                
+            </p>
+            <!--<div id="60_news" class="uk-hidden">-->
+            <div id="60_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">Novermber:</span>
+                Zheng and Li have contributed an article in Mol Cell. Congratulations to Zheng and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.cell.com/molecular-cell/fulltext/S1097-2765(17)30835-3"></a>
+                
+            </p>
+            <!--<div id="59_news" class="uk-hidden">-->
+            <div id="59_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">Novermber:</span>
+                Li has contributed a perspectives in Science. Congratulations to Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://science.sciencemag.org/content/358/6366/996.full"></a>
+                
+            </p>
+            <!--<div id="58_news" class="uk-hidden">-->
+            <div id="58_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">October:</span>
+                Our lab participated in city hiking and won the second and forth prizes.
+                <!---->
+                <!--<a class="uk-icon-info-circle" data-uk-toggle="{target:'#57_news', animation:'uk-animation-slide-left, uk-animation-slide-bottom'}"></a>-->
+                <!---->
+                
+            </p>
+            <!--<div id="57_news" class="uk-hidden">-->
+            <div id="57_news">
+                
+                
+                <div class="uk-text-center">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/2017city_hiking/team_resize.jpg" alt="2017city_hiking/team_resize.jpg">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/2017city_hiking/reward_resize.jpg" alt="2017city_hiking/reward_resize.jpg">
+                
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">August:</span>
+                Wei, Jia and Li have contributed a letter in Cell Res. Congratulations to Wei, Jia and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.nature.com/cr/journal/vaop/ncurrent/full/cr2017111a.html?foxtrotcallback=true"></a>
+                
+            </p>
+            <!--<div id="56_news" class="uk-hidden">-->
+            <div id="56_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">June:</span>
+                Qin, Ying and Li have contributed a mini review in Quantitative Biology. Congratulations to Qin, Ying and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="https://link.springer.com/article/10.1007/s40484-017-0112-7"></a>
+                
+            </p>
+            <!--<div id="55_news" class="uk-hidden">-->
+            <div id="55_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">July:</span>
+                Congratulations on our recent Mol Cell paper! Our paper has been selected as “Featured Article” of the issue. Moreover, the first authors of the paper were invited to take part in “Meet the Authors” section on the Mol Cell website to share their experience and the stories behind the paper. Congratulations to Wei again!
+                <!---->
+                <!--<a class="uk-icon-info-circle" data-uk-toggle="{target:'#54_news', animation:'uk-animation-slide-left, uk-animation-slide-bottom'}"></a>-->
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.cell.com/molecular-cell/meet-the-author/li-liu-xue"></a>
+                
+            </p>
+            <!--<div id="54_news" class="uk-hidden">-->
+            <div id="54_news">
+                
+                
+                <div class="uk-text-center">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/2017_mol_cell_meet_author.png" alt="2017_mol_cell_meet_author.png">
+                
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">June:</span>
+                Li has contributed a review in Trends Genet. Congratulations 
+ to Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.sciencedirect.com/science/article/pii/S0168952517300859"></a>
+                
+            </p>
+            <!--<div id="53_news" class="uk-hidden">-->
+            <div id="53_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">June:</span>
+                Wei, Jia and Li have contributed an article in Mol Cell. Congratulations to Wei, Jia and Li!
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.cell.com/molecular-cell/fulltext/S1097-2765(17)30363-5"></a>
+                
+            </p>
+            <!--<div id="52_news" class="uk-hidden">-->
+            <div id="52_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">May:</span>
+                Rui has passed the dissertation defense! He becomes the Ph.D graduate of our lab! Congratulations to Rui!
+                <!---->
+                <!--<a class="uk-icon-info-circle" data-uk-toggle="{target:'#51_news', animation:'uk-animation-slide-left, uk-animation-slide-bottom'}"></a>-->
+                <!---->
+                
+            </p>
+            <!--<div id="51_news" class="uk-hidden">-->
+            <div id="51_news">
+                
+                
+                <div class="uk-text-center">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/biye/rui_talk.jpg" alt="biye/rui_talk.jpg">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/biye/rui_pi.jpg" alt="biye/rui_pi.jpg">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/biye/rui_li.jpg" alt="biye/rui_li.jpg">
+                
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">May:</span>
+                Rui and Li have contributed an article in Cell. Congratulations to Rui and Li!
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.cell.com/cell/fulltext/S0092-8674(17)30424-5"></a>
+                
+            </p>
+            <!--<div id="50_news" class="uk-hidden">-->
+            <div id="50_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">February:</span>
+                Li has contributed a review in Trends Cell Biol. Congratulations to Li!
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.cell.com/trends/cell-biology/fulltext/S0962-8924(17)30002-8"></a>
+                
+            </p>
+            <!--<div id="49_news" class="uk-hidden">-->
+            <div id="49_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">January:</span>
+                Jian-Feng, Qin and Li have contributed an article in Cell Disc. Congratulations to Jian-Feng, Qin and Li!
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.nature.com/articles/celldisc201650"></a>
+                
+            </p>
+            <!--<div id="48_news" class="uk-hidden">-->
+            <div id="48_news">
+                
+                
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin data-uk-scrollspy="{cls:'uk-animation-fade', target:'div > .uk-panel', delay:5, repeat:true}">
+    <div class="uk-width-1-1">
+        <div class="uk-panel">
+            <h2>2016</h2>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">December:</span>
+                Rui, Xu-Kai and Li have contributed an article in RNA Biol. Congratulations to Rui, Xu-Kai and Li!
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.tandfonline.com/doi/full/10.1080/15476286.2016.1269999"></a>
+                
+            </p>
+            <!--<div id="47_news" class="uk-hidden">-->
+            <div id="47_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">Novermber:</span>
+                Xu-Kai, Zheng and Li took part in  the Cold Spring Harbor Asia conference on RNA Biology and Li delivered a presentation.
+                <!---->
+                
+            </p>
+            <!--<div id="46_news" class="uk-hidden">-->
+            <div id="46_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">Novermber:</span>
+                Rui and Wei participated in Cell Symposia Functional RNAs and Rui presented his latest public researches in the poster presentations.
+                <!---->
+                <!--<a class="uk-icon-info-circle" data-uk-toggle="{target:'#45_news', animation:'uk-animation-slide-left, uk-animation-slide-bottom'}"></a>-->
+                <!---->
+                
+            </p>
+            <!--<div id="45_news" class="uk-hidden">-->
+            <div id="45_news">
+                
+                
+                <div class="uk-text-center">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/cell_sym_functional_RNAs.jpg" alt="cell_sym_functional_RNAs.jpg">
+                
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">November:</span>
+                Our lab participated in city hiking and won the third prize.
+                <!---->
+                <!--<a class="uk-icon-info-circle" data-uk-toggle="{target:'#44_news', animation:'uk-animation-slide-left, uk-animation-slide-bottom'}"></a>-->
+                <!---->
+                
+            </p>
+            <!--<div id="44_news" class="uk-hidden">-->
+            <div id="44_news">
+                
+                
+                <div class="uk-text-center">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/city_hiking_team_1.jpg" alt="city_hiking_team_1.jpg">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/city_hiking_team_2.jpg" alt="city_hiking_team_2.jpg">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/city_hiking_team_name.jpg" alt="city_hiking_team_name.jpg">
+                
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">October:</span>
+                Zheng, Jian-Feng and Li have contributed an article in <strong>Mol Cell</strong>. Congratulations to Zheng, Jian-Feng and Li!
+                <!---->
+                <!--<a class="uk-icon-info-circle" data-uk-toggle="{target:'#43_news', animation:'uk-animation-slide-left, uk-animation-slide-bottom'}"></a>-->
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.cell.com/molecular-cell/fulltext/S1097-2765(16)30630-X"></a>
+                
+            </p>
+            <!--<div id="43_news" class="uk-hidden">-->
+            <div id="43_news">
+                
+                <!--this if is for picture in ther future, may only have picture or-->
+                <!--word-->
+                <p>The authors have employed a variety of techniques including RNA immunoprecipitation and deep sequencing to explore the repertoire of snoRNA related lncRNAs. These approaches allowed the authors to identify a type of polycistronic transcript derived lncRNAs that are 5' snoRNA capped and 3' polyadenylated (SPAs). SPA processing is associated with nascent mRNA 3’ processing and kinetic competition between XRN2 trimming and Pol II elongation. Following cleavage/polyadenylation of its upstream gene, the downstream uncapped pre-SPA is trimmed by XRN2 until this exonuclease reaches the co-transcriptionally assembled snoRNP. This snoRNP complex prevents further degradation, generates a novel 5' end and allows continuous Pol II elongation. The imprinted 15q11-q13 encodes two SPAs that are deleted in Prader-Willi syndrome (PWS) patients. These PWS region SPAs, together with previously identified sno-lncRNAs (Yin et al., Mol Cell, 2012) form a nuclear accumulation that is enriched in multiple RNA binding proteins (RBPs) including TDP43, RBFOX2 and hnRNP M. Generation of a human PWS cellular model by depleting these lncRNAs results in altered patterns of RBPs binding and alternative splicing. Prader-Willi Syndrome is a multiple-system human disorder including global developmental delay, mental retardation, morbid obesity, and etc. These findings thus implicated previously unannotated class of lncRNAs in PWS pathogenesis during early embryonic development and adulthood.</p>
+                
+                
+                <div class="uk-text-center">
+                
+                <img class="uk-container-center" src="/rnomics/yanglab/static/image/news/spa_mc_cover.jpg" alt="spa_mc_cover.jpg">
+                
+                </div>
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">October:</span>
+                Zheng, Qin and Li have contributed a preview in <strong>Mol Cell</strong>. Congratulations to Zheng, Qin and Li. 
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.cell.com/molecular-cell/abstract/S1097-2765(16)30629-3"></a>
+                
+            </p>
+            <!--<div id="42_news" class="uk-hidden">-->
+            <div id="42_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">September:</span>
+                Rui has obtained National Scholarship for Outstanding Graduate Student, Ministry of Education of the People's Republic of China. Congratulations to Rui!
+                <!---->
+                
+            </p>
+            <!--<div id="41_news" class="uk-hidden">-->
+            <div id="41_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">July:</span>
+                Rui took part in the second circular RNA Research Forum and delivered a presentation.
+                <!---->
+                
+            </p>
+            <!--<div id="40_news" class="uk-hidden">-->
+            <div id="40_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">June:</span>
+                Rui and Wei participated in the 2016 joint annual meeting of the RNA Society and the RNA Society of Japan and presented their latest public researches in the poster presentations.
+                <!---->
+                
+            </p>
+            <!--<div id="39_news" class="uk-hidden">-->
+            <div id="39_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">June:</span>
+                We have published a collaborative work with Chen Lab in <strong>Genome Res</strong>. Congratulations to Xiao-Ou, Rui, Jia-Lin, Zheng and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://genome.cshlp.org/content/early/2016/06/30/gr.202895.115.full.pdf+html"></a>
+                
+            </p>
+            <!--<div id="38_news" class="uk-hidden">-->
+            <div id="38_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">May:</span>
+                Xiao-Ou has passed the dissertation defense! He becomes the first Ph.D graduate of our lab! Congratulations to Xiao-Ou!
+                <!---->
+                
+            </p>
+            <!--<div id="37_news" class="uk-hidden">-->
+            <div id="37_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">April:</span>
+                Welcome new graduate student Meng-Ran  to join our group!
+                <!---->
+                
+            </p>
+            <!--<div id="36_news" class="uk-hidden">-->
+            <div id="36_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">April:</span>
+                Our lab has contributed an article in <strong>Cell Reports</strong>. Congratulations to Wei, Jia-Lin and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.cell.com/cell-reports/fulltext/S2211-1247(16)30329-1?rss=yes"></a>
+                
+            </p>
+            <!--<div id="35_news" class="uk-hidden">-->
+            <div id="35_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">March:</span>
+                Our lab has contributed a letter in <strong>Cell Res</strong>. Congratulations to Rui, Xiao-Ou, Xu-Kai and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.nature.com/cr/journal/vaop/ncurrent/pdf/cr201642a.pdf"></a>
+                
+            </p>
+            <!--<div id="34_news" class="uk-hidden">-->
+            <div id="34_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">March:</span>
+                Xiao-Ou has obtained 2016 Shanghai outstanding graduates and 2016 Shanghai tri-merit student honor award. Congratulations to Xiao-Ou.
+                <!---->
+                
+            </p>
+            <!--<div id="34_news" class="uk-hidden">-->
+            <div id="34_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">March:</span>
+                Welcome new graduate students Kai-Xuan and Ying to join our group!
+                <!---->
+                
+            </p>
+            <!--<div id="33_news" class="uk-hidden">-->
+            <div id="33_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">January:</span>
+                Li has contributed a chapter of <strong>Long Non-Coding RNAs</strong>. Congratulations to Li!
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://link.springer.com/protocol/10.1007/978-1-4939-3378-5_17"></a>
+                
+            </p>
+            <!--<div id="32_news" class="uk-hidden">-->
+            <div id="32_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">January:</span>
+                Rui and Li have contributed an article in <strong>Cell Res</strong>. Congratulations to Rui and Li!
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.nature.com/cr/journal/vaop/ncurrent/full/cr2015132a.html"></a>
+                
+            </p>
+            <!--<div id="31_news" class="uk-hidden">-->
+            <div id="31_news">
+                
+                
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin data-uk-scrollspy="{cls:'uk-animation-fade', target:'div > .uk-panel', delay:5, repeat:true}">
+    <div class="uk-width-1-1">
+        <div class="uk-panel">
+            <h2>2015</h2>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">December:</span>
+                We welcome new Research Associate Jia to join our group!
+                <!---->
+                
+            </p>
+            <!--<div id="30_news" class="uk-hidden">-->
+            <div id="30_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">October:</span>
+                Li has contributed a review on lncRNA biogenesis in <strong>WIREs RNA</strong>. Congratulations to Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/wrna.1307"></a>
+                
+            </p>
+            <!--<div id="29_news" class="uk-hidden">-->
+            <div id="29_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">August:</span>
+                Li has contributed an article in <strong>Genome Res</strong>. Congratulations to Li!
+                <!---->
+                
+            </p>
+            <!--<div id="28_news" class="uk-hidden">-->
+            <div id="28_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">August:</span>
+                Xiao-Ou has been  selected as a recipient of the <strong>2015 Ray Wu Prize for Excellent in Life Sciences</strong>. Congratulations to Xiao-Ou!
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://blog.sciencenet.cn/home.php?mod=space&amp;uid=655618&amp;do=blog&amp;id=914823"></a>
+                
+            </p>
+            <!--<div id="27_news" class="uk-hidden">-->
+            <div id="27_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">August:</span>
+                Li has contributed a review in <strong>Curr Opin Genet Dev</strong>. Congratulations to Li!
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.sciencedirect.com/science/article/pii/S0959437X15000763"></a>
+                
+            </p>
+            <!--<div id="26_news" class="uk-hidden">-->
+            <div id="26_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">July:</span>
+                We have published a collaborative work on haploid embryonic stem cells with Yang Lab in <strong>Cell Stem Cell</strong>. Congratulations to Rui and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://dx.doi.org/10.1016/j.stem.2015.06.005"></a>
+                
+            </p>
+            <!--<div id="25_news" class="uk-hidden">-->
+            <div id="25_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">June:</span>
+                Li and Ling-Ling have contributed a preview in <strong>Mol Cell</strong>.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.sciencedirect.com/science/article/pii/S1097276515003949"></a>
+                
+            </p>
+            <!--<div id="24_news" class="uk-hidden">-->
+            <div id="24_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">April:</span>
+                Li and Ling-Ling have contributed a review on circRNA biogenesis in <strong>RNA Biology</strong>.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.tandfonline.com/doi/full/10.1080/15476286.2015.1020271#abstract"></a>
+                
+            </p>
+            <!--<div id="23_news" class="uk-hidden">-->
+            <div id="23_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">April:</span>
+                We welcome new graduate students Xu-Kai and Jia-Lin to join our group!
+                <!---->
+                
+            </p>
+            <!--<div id="22_news" class="uk-hidden">-->
+            <div id="22_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">April:</span>
+                Our website has been updated with wholly new engine and templates. Cheer Up!
+                <!---->
+                
+            </p>
+            <!--<div id="21_news" class="uk-hidden">-->
+            <div id="21_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">March:</span>
+                We have published a collaborative work with Chen Lab in <strong>Genes & Dev</strong>. Congratulations to Wei and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://genesdev.cshlp.org/content/29/6/630.abstract"></a>
+                
+            </p>
+            <!--<div id="20_news" class="uk-hidden">-->
+            <div id="20_news">
+                
+                
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin data-uk-scrollspy="{cls:'uk-animation-fade', target:'div > .uk-panel', delay:5, repeat:true}">
+    <div class="uk-width-1-1">
+        <div class="uk-panel">
+            <h2>2014</h2>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">December:</span>
+                Zheng has passed his prelim! Congratulations to Zheng!
+                <!---->
+                
+            </p>
+            <!--<div id="19_news" class="uk-hidden">-->
+            <div id="19_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">September:</span>
+                We have published a collaborative work on circular RNAs with Chen Lab in <strong>Cell</strong>. Congratulations to Xiao-Ou and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.cell.com/cell/abstract/S0092-8674(14)01111-8"></a>
+                
+            </p>
+            <!--<div id="18_news" class="uk-hidden">-->
+            <div id="18_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">May:</span>
+                We have published a collaborative work on sno-lncRNAs with Chen Lab in <strong>BMC Genomics</strong>. Congratulations to Xiao-Ou and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.biomedcentral.com/1471-2164/15/287/abstract"></a>
+                
+            </p>
+            <!--<div id="17_news" class="uk-hidden">-->
+            <div id="17_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">May:</span>
+                Rui and Qin of our group have passed the mid-term review. Congratulations to Rui and Qin!
+                <!---->
+                
+            </p>
+            <!--<div id="16_news" class="uk-hidden">-->
+            <div id="16_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">April:</span>
+                Welcome new graduate student Zheng to join our group!
+                <!---->
+                
+            </p>
+            <!--<div id="15_news" class="uk-hidden">-->
+            <div id="15_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">March:</span>
+                We have published a collaborative work  with Chen Lab in BMC Genomics. Congratulations to Xiao-Ou and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.nature.com/cr/journal/v24/n5/full/cr201435a.html"></a>
+                
+            </p>
+            <!--<div id="14_news" class="uk-hidden">-->
+            <div id="14_news">
+                
+                
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin data-uk-scrollspy="{cls:'uk-animation-fade', target:'div > .uk-panel', delay:5, repeat:true}">
+    <div class="uk-width-1-1">
+        <div class="uk-panel">
+            <h2>2013</h2>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">December:</span>
+                Rui and Qin of our group have passed their prelim. Congratulations to Rui and Qin!
+                <!---->
+                
+            </p>
+            <!--<div id="13_news" class="uk-hidden">-->
+            <div id="13_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">October:</span>
+                Hua-Hong has a cute baby boy. Cheer up!
+                <!---->
+                
+            </p>
+            <!--<div id="12_news" class="uk-hidden">-->
+            <div id="12_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">September:</span>
+                We have published a collaborative work on circular intronic RNAs with Chen Lab in <strong>Mol Cell</strong>. Congratulations to Xiao-Ou, Shanshan and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.cell.com/molecular-cell/abstract/S1097-2765(13)00590-X"></a>
+                
+            </p>
+            <!--<div id="11_news" class="uk-hidden">-->
+            <div id="11_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">August:</span>
+                Our sno-lncRNA paper published in <strong>Mol Cell</strong> was recently selected as one of <strong>Best of 2012</strong> by Mol Cell. 
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://digitaleditions.sheridan.com/publication/frame.php?i=167132&amp;p=&amp;pn=&amp;ver=flex&amp;pre=1"></a>
+                
+            </p>
+            <!--<div id="10_news" class="uk-hidden">-->
+            <div id="10_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">June:</span>
+                Xiao-Ou has obtained the Best Poster Awards in The 2013 CAS-MPG Partner Institute for Computational Biology Scientific Exchange Meeting. Congratulations to Xiao-Ou!
+                <!---->
+                
+            </p>
+            <!--<div id="9_news" class="uk-hidden">-->
+            <div id="9_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">March:</span>
+                Xiao-Ou has passed his mid-term evaluation. Congratulations to Xiao-Ou!
+                <!---->
+                
+            </p>
+            <!--<div id="8_news" class="uk-hidden">-->
+            <div id="8_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">April:</span>
+                We have published a collaborative work on RNA editing with Chen Lab in <strong>BMC Genomics</strong>. Congratulations to Shanshan and Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.biomedcentral.com/1471-2164/14/206"></a>
+                
+            </p>
+            <!--<div id="7_news" class="uk-hidden">-->
+            <div id="7_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">April:</span>
+                We welcome new graduate students Rui and Qin to join our group!
+                <!---->
+                
+            </p>
+            <!--<div id="6_news" class="uk-hidden">-->
+            <div id="6_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">February:</span>
+                Our invited review on long noncoding RNAs was published. Congratulations to Shanshan, Xiao-Ou, Li!
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.mdpi.com/2218-273X/3/1/226"></a>
+                
+            </p>
+            <!--<div id="5_news" class="uk-hidden">-->
+            <div id="5_news">
+                
+                
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin data-uk-scrollspy="{cls:'uk-animation-fade', target:'div > .uk-panel', delay:5, repeat:true}">
+    <div class="uk-width-1-1">
+        <div class="uk-panel">
+            <h2>2012</h2>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">December:</span>
+                Li was invited to give comments on <strong>Diffculties in RNA editing study</strong> in <strong>Nat Biotechnol</strong>. Congratulations to Li!
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.nature.com/nbt/journal/v30/n12/full/nbt.2452.html"></a>
+                
+            </p>
+            <!--<div id="4_news" class="uk-hidden">-->
+            <div id="4_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">December:</span>
+                Congratulations to Xiao-Ou for passing his prelim!
+                <!---->
+                
+            </p>
+            <!--<div id="3_news" class="uk-hidden">-->
+            <div id="3_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">October:</span>
+                We published a collaborative work on sno-lncRNA with Chen Lab in <strong>Mol Cell</strong>. Congratulations to Li.
+                <!---->
+                
+                <a class="uk-icon-external-link" href="http://www.sciencedirect.com/science/article/pii/S1097276512006867"></a>
+                
+            </p>
+            <!--<div id="2_news" class="uk-hidden">-->
+            <div id="2_news">
+                
+                
+            </div>
+        </div>
+        
+        <div class="uk-panel uk-margin-top-remove uk-margin-bottom-remove">
+            <!--<p class="uk-article-lead" style="margin:0;">-->
+            <p class="uk-article-lead uk-margin-top-remove uk-margin-bottom-remove">
+                <span class="uk-text-bold uk-text-danger">October:</span>
+                Chen Lab and our lab had an enjoyable joint lab retreat in Suzhou.
+                <!---->
+                
+            </p>
+            <!--<div id="1_news" class="uk-hidden">-->
+            <div id="1_news">
+                
+                
+            </div>
+        </div>
+        
+    </div>
+</div>
+
+
+
+        </article>
+
+        
+        <hr class="uk-grid-divider">
+<div class="uk-panel uk-text-center">
+    <p>Powered by <a href="http://getuikit.com">UIKit</a> and <a href="http://flask.pocoo.org">Flask</a>.</p>
+    <p>Copyright 2012-2018 Eukaryotic Transcriptomics (Yang Lab). All rights reserved.</p>
+</div>
+        
+
+    </div>
+
+    <div id="nav-offcanvas" class="uk-offcanvas">
+    <div class="uk-offcanvas-bar">
+        <ul class="uk-nav uk-nav-offcanvas" data-uk-nav>
+            <li><a href="/rnomics/yanglab/index"><i class="uk-icon-home"></i> Home</a></li>
+            <li><a href="/rnomics/yanglab/news"><i class="uk-icon-newspaper-o"></i> News</a></li>
+            <li><a href="/rnomics/yanglab/awards"><i class="uk-icon-newspaper-o"></i> Awards</a></li>
+            <li><a href="/rnomics/yanglab/pictures"><i class="uk-icon-picture-o"></i> Pictures</a></li>
+            <li><a href="/rnomics/yanglab/team"><i class="uk-icon-users"></i> Team</a></li>
+            <li><a href="/rnomics/yanglab/publications"><i class="uk-icon-file-text"></i> Publications</a></li>
+            <li><a href="/rnomics/yanglab/resources"><i class="uk-icon-wrench"></i> Resources</a></li>
+            <!--<li><a href="/rnomics/yanglab/SM"><i class="uk-icon-cubes"></i> Supplementary Materials</a></li>-->
+            <li><a href="/rnomics/yanglab/login"><i class="uk-icon-user"></i> Login</a></li>
+        </ul>
+    </div>
+</div>
+
+    <script type="text/javascript">
+    $('.uk-navbar a:contains("News")').parent().addClass('uk-active');
+    $('.uk-nav a:contains("News")').parent().addClass('uk-active');
+    </script>
+    <!-- Piwik -->
+    <script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="//www.picb.ac.cn/rnomics/piwik/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', 1]);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+    </script>
+    <noscript><p><img src="//www.picb.ac.cn/rnomics/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Piwik Code -->
+
+    
+
+</body>
+
+</html>

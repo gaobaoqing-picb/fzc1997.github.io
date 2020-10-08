@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Team of Eukaryotic Transcriptomics -- PICB">
+    <meta name="author" content="Eukaryotic Transcriptomics -- PICB">
+    <link rel="shortcut icon" href="/rnomics/yanglab/static/image/favicon.ico">
+    <title>Eukaryotic Transcriptomics (Yang Lab) -- PICB</title>
+
+    
+
+    <link rel="stylesheet" href="/rnomics/yanglab/static/css/uikit.almost-flat.min.css" type="text/css">
+    <link rel="stylesheet" href="/rnomics/yanglab/static/css/components/sticky.almost-flat.min.css" type="text/css">
+    <script src="/rnomics/yanglab/static/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/rnomics/yanglab/static/js/uikit.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/rnomics/yanglab/static/js/components/sticky.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/rnomics/yanglab/static/js/components/grid.min.js" type="text/javascript" charset="utf-8"></script>
+    
+<link rel="stylesheet" href="/rnomics/yanglab/static/css/components/tooltip.almost-flat.min.css" type="text/css">
+<script src="/rnomics/yanglab/static/js/components/tooltip.min.js" type="text/javascript" charset="utf-8"></script>
+
+
+</head>
+
+<body>
+
+    
+
+    <div class="uk-container uk-container-center uk-margin-large-top uk-margin-large-bottom">
+
+        <div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <h1><img src="/rnomics/yanglab/static/image/favicon.png" alt="logo">Eukaryotic Transcriptomics (Yang Lab)</h1>
+        <h2><a class="uk-link-muted" href="http://www.picb.ac.cn">CAS-MPG Partner Institute for Computational Biology</a>, <a class="uk-link-muted" href="http://english.sibs.cas.cn">SIBS</a>, <a class="uk-link-muted" href="http://english.cas.cn">CAS</a></h2>
+    </div>
+</div>
+
+        <nav class="uk-navbar uk-margin-top uk-margin-bottom" data-uk-sticky="{top:-50}">
+    <a class="uk-navbar-brand uk-hidden-small" href="#">Yang Lab</a>
+    <ul class="uk-navbar-nav uk-hidden-small">
+        <li><a href="/rnomics/yanglab/index"><i class="uk-icon-home"></i> Home</a></li>
+       <!-- <li><a href="/rnomics/yanglab/research"><i class="uk-icon-laptop"></i> Research</a></li>  -->
+        <li><a href="/rnomics/yanglab/news"><i class="uk-icon-newspaper-o"></i> News</a></li>
+        
+        <li><a href="/rnomics/yanglab/team"><i class="uk-icon-users"></i> Team</a></li>
+        <li><a href="/rnomics/yanglab/publications"><i class="uk-icon-file-text"></i> Publications</a></li>
+
+        <li><a href="/rnomics/yanglab/awards"><i class="uk-icon-star"></i> Awards</a></li>
+        <li><a href="/rnomics/yanglab/pictures"><i class="uk-icon-picture-o"></i> Pictures</a></li>
+
+        <li><a href="/rnomics/yanglab/resources"><i class="uk-icon-wrench"></i> Resources</a></li>
+        <!--<li><a href="/rnomics/yanglab/SM"><i class="uk-icon-cubes"></i> Supplementary Materials</a></li>-->
+    </ul>
+    <div class="uk-navbar-flip uk-hidden-small">
+        <ul class="uk-navbar-nav">
+            <li><a href="/rnomics/yanglab/login"><i class="uk-icon-user"></i> Login</a></li>
+        </ul>
+    </div>
+    <a href="#nav-offcanvas" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas></a>
+    <div class="uk-navbar-brand uk-navbar-center uk-visible-small">Yang Lab</div>
+</nav>
+
+        <article class="uk-article">
+
+            
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <h2 class="uk-article-title">Team</h2>
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-medium-1-3 uk-push-1-3 uk-text-center">
+        <div class="uk-thumbnail uk-overlay-hover uk-border-circle">
+            <figure class="uk-overlay">
+                <img class="uk-border-circle" src="/rnomics/yanglab/static/image/photo/liyang.jpg" alt="photo">
+                <figcaption class="uk-overlay-panel uk-overlay-background uk-flex uk-flex-center uk-flex-middle uk-text-center uk-border-circle">
+                    <div>
+                        <a href="mailto:liyang@picb.ac.cn" class="uk-icon-button uk-icon-envelope" data-uk-tooltip title="Email"></a>
+                        
+                        <a href="http://cn.linkedin.com/pub/li-yang/63/263/325/en" class="uk-icon-button uk-icon-link" data-uk-tooltip title="LinkedIn"></a>
+                        
+                    </div>
+                </figcaption>
+            </figure>
+        </div>
+        <h2 class="uk-margin-remove">Li Yang</h2>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Ph.D., Principal Investigator, Group Leader</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Room: 238</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Telephone: 20233</p>
+    </div>
+</div>
+
+<hr class="uk-grid-divider">
+
+<div class="uk-grid" data-uk-grid-margin>
+    
+    <div class="uk-width-medium-1-4 uk-text-center">
+        <div class="uk-thumbnail uk-overlay-hover uk-border-circle">
+            <figure class="uk-overlay">
+                <img class="uk-border-circle" src="/rnomics/yanglab/static/image/photo/jiawei.png" alt="photo">
+                <figcaption class="uk-overlay-panel uk-overlay-background uk-flex uk-flex-center uk-flex-middle uk-text-center uk-border-circle">
+                    <div>
+                        <a href="mailto:weijia@picb.ac.cn" class="uk-icon-button uk-icon-envelope" data-uk-tooltip title="Email"></a>
+                        
+                    </div>
+                </figcaption>
+            </figure>
+        </div>
+        <h2 class="uk-margin-remove">Jia Wei</h2>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Research Associate</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Room: 240</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Telephone: 20661</p>
+    </div>
+    
+    <div class="uk-width-medium-1-4 uk-text-center">
+        <div class="uk-thumbnail uk-overlay-hover uk-border-circle">
+            <figure class="uk-overlay">
+                <img class="uk-border-circle" src="/rnomics/yanglab/static/image/photo/maxukai.jpg" alt="photo">
+                <figcaption class="uk-overlay-panel uk-overlay-background uk-flex uk-flex-center uk-flex-middle uk-text-center uk-border-circle">
+                    <div>
+                        <a href="mailto:maxukai@picb.ac.cn" class="uk-icon-button uk-icon-envelope" data-uk-tooltip title="Email"></a>
+                        
+                    </div>
+                </figcaption>
+            </figure>
+        </div>
+        <h2 class="uk-margin-remove">Xu-Kai Ma</h2>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">PostDoc</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Room: 240</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Telephone: 20661</p>
+    </div>
+    
+</div>
+
+<hr class="uk-grid-divider">
+
+<div class="uk-grid" data-uk-grid-margin>
+    
+    <div class="uk-width-medium-1-4 uk-text-center">
+        <div class="uk-thumbnail uk-overlay-hover uk-border-circle">
+            <figure class="uk-overlay">
+                <img class="uk-border-circle" src="/rnomics/yanglab/static/image/photo/wangying.jpg" alt="photo">
+                <figcaption class="uk-overlay-panel uk-overlay-background uk-flex uk-flex-center uk-flex-middle uk-text-center uk-border-circle">
+                    <div>
+                        <a href="mailto:wangying@picb.ac.cn" class="uk-icon-button uk-icon-envelope" data-uk-tooltip title="Email"></a>
+                        
+                    </div>
+                </figcaption>
+            </figure>
+        </div>
+        <h2 class="uk-margin-remove">Ying Wang</h2>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Ph.D Candidate</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Room: 236</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Telephone: 20567</p>
+    </div>
+    
+    <div class="uk-width-medium-1-4 uk-text-center">
+        <div class="uk-thumbnail uk-overlay-hover uk-border-circle">
+            <figure class="uk-overlay">
+                <img class="uk-border-circle" src="/rnomics/yanglab/static/image/photo/wangmengran.jpg" alt="photo">
+                <figcaption class="uk-overlay-panel uk-overlay-background uk-flex uk-flex-center uk-flex-middle uk-text-center uk-border-circle">
+                    <div>
+                        <a href="mailto:wangmengran@picb.ac.cn" class="uk-icon-button uk-icon-envelope" data-uk-tooltip title="Email"></a>
+                        
+                    </div>
+                </figcaption>
+            </figure>
+        </div>
+        <h2 class="uk-margin-remove">Meng-Ran Wang</h2>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Ph.D Candidate</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Room: 234</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Telephone: 20661</p>
+    </div>
+    
+    <div class="uk-width-medium-1-4 uk-text-center">
+        <div class="uk-thumbnail uk-overlay-hover uk-border-circle">
+            <figure class="uk-overlay">
+                <img class="uk-border-circle" src="/rnomics/yanglab/static/image/photo/xuewei.jpg" alt="photo">
+                <figcaption class="uk-overlay-panel uk-overlay-background uk-flex uk-flex-center uk-flex-middle uk-text-center uk-border-circle">
+                    <div>
+                        <a href="mailto:xuewei@picb.ac.cn" class="uk-icon-button uk-icon-envelope" data-uk-tooltip title="Email"></a>
+                        
+                    </div>
+                </figcaption>
+            </figure>
+        </div>
+        <h2 class="uk-margin-remove">Wei Xue</h2>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Ph.D Candidate</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Room: 234</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Telephone: 20567</p>
+    </div>
+    
+    <div class="uk-width-medium-1-4 uk-text-center">
+        <div class="uk-thumbnail uk-overlay-hover uk-border-circle">
+            <figure class="uk-overlay">
+                <img class="uk-border-circle" src="/rnomics/yanglab/static/image/photo/nanfang.jpg" alt="photo">
+                <figcaption class="uk-overlay-panel uk-overlay-background uk-flex uk-flex-center uk-flex-middle uk-text-center uk-border-circle">
+                    <div>
+                        <a href="mailto:nanfang@picb.ac.cn" class="uk-icon-button uk-icon-envelope" data-uk-tooltip title="Email"></a>
+                        
+                    </div>
+                </figcaption>
+            </figure>
+        </div>
+        <h2 class="uk-margin-remove">Fang Nan</h2>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Ph.D Candidate</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Room: 234</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Telephone: 20567</p>
+    </div>
+    
+    <div class="uk-width-medium-1-4 uk-text-center">
+        <div class="uk-thumbnail uk-overlay-hover uk-border-circle">
+            <figure class="uk-overlay">
+                <img class="uk-border-circle" src="/rnomics/yanglab/static/image/photo/liguowei.jpg" alt="photo">
+                <figcaption class="uk-overlay-panel uk-overlay-background uk-flex uk-flex-center uk-flex-middle uk-text-center uk-border-circle">
+                    <div>
+                        <a href="mailto:liguowei2017@sibs.ac.cn" class="uk-icon-button uk-icon-envelope" data-uk-tooltip title="Email"></a>
+                        
+                    </div>
+                </figcaption>
+            </figure>
+        </div>
+        <h2 class="uk-margin-remove">Guo-Wei Li</h2>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Ph.D Candidate</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Room: 234</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Telephone: 20567</p>
+    </div>
+    
+    <div class="uk-width-medium-1-4 uk-text-center">
+        <div class="uk-thumbnail uk-overlay-hover uk-border-circle">
+            <figure class="uk-overlay">
+                <img class="uk-border-circle" src="/rnomics/yanglab/static/image/photo/leiyunni.png" alt="photo">
+                <figcaption class="uk-overlay-panel uk-overlay-background uk-flex uk-flex-center uk-flex-middle uk-text-center uk-border-circle">
+                    <div>
+                        <a href="mailto:leiyn1@shanghaitech.edu.cn" class="uk-icon-button uk-icon-envelope" data-uk-tooltip title="Email"></a>
+                        
+                    </div>
+                </figcaption>
+            </figure>
+        </div>
+        <h2 class="uk-margin-remove">Yun-Ni Lei</h2>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Ph.D Candidate</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Room: 234</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Telephone: 20567</p>
+    </div>
+    
+    <div class="uk-width-medium-1-4 uk-text-center">
+        <div class="uk-thumbnail uk-overlay-hover uk-border-circle">
+            <figure class="uk-overlay">
+                <img class="uk-border-circle" src="/rnomics/yanglab/static/image/photo/zhangpeihong.png" alt="photo">
+                <figcaption class="uk-overlay-panel uk-overlay-background uk-flex uk-flex-center uk-flex-middle uk-text-center uk-border-circle">
+                    <div>
+                        <a href="mailto:zhangpeihong2018@sibs.ac.cn" class="uk-icon-button uk-icon-envelope" data-uk-tooltip title="Email"></a>
+                        
+                    </div>
+                </figcaption>
+            </figure>
+        </div>
+        <h2 class="uk-margin-remove">Pei-Hong Zhang</h2>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Ph.D Candidate</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Room: 240</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Telephone: 20661</p>
+    </div>
+    
+    <div class="uk-width-medium-1-4 uk-text-center">
+        <div class="uk-thumbnail uk-overlay-hover uk-border-circle">
+            <figure class="uk-overlay">
+                <img class="uk-border-circle" src="/rnomics/yanglab/static/image/photo/gaobaoqing_new.jpg" alt="photo">
+                <figcaption class="uk-overlay-panel uk-overlay-background uk-flex uk-flex-center uk-flex-middle uk-text-center uk-border-circle">
+                    <div>
+                        <a href="mailto:gaobaoqing2019@sibs.ac.cn" class="uk-icon-button uk-icon-envelope" data-uk-tooltip title="Email"></a>
+                        
+                    </div>
+                </figcaption>
+            </figure>
+        </div>
+        <h2 class="uk-margin-remove">Bao-Qing Gao</h2>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Graduate Student</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Room: 240</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Telephone: 20661</p>
+    </div>
+    
+    <div class="uk-width-medium-1-4 uk-text-center">
+        <div class="uk-thumbnail uk-overlay-hover uk-border-circle">
+            <figure class="uk-overlay">
+                <img class="uk-border-circle" src="/rnomics/yanglab/static/image/photo/fuzhican_new.jpg" alt="photo">
+                <figcaption class="uk-overlay-panel uk-overlay-background uk-flex uk-flex-center uk-flex-middle uk-text-center uk-border-circle">
+                    <div>
+                        <a href="mailto:fuzhican2019@sibs.ac.cn" class="uk-icon-button uk-icon-envelope" data-uk-tooltip title="Email"></a>
+                        
+                    </div>
+                </figcaption>
+            </figure>
+        </div>
+        <h2 class="uk-margin-remove">Zhi-Can Fu</h2>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Graduate Student</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Room: 236</p>
+        <p class="uk-text-large uk-margin-remove uk-text-muted">Telephone: 20661</p>
+    </div>
+    
+</div>
+
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <div class="uk-thumbnail uk-thumbnail-expand">
+            <img src="/rnomics/yanglab/static/image/team.jpg"> <! --Zhi-Can Fu 2020/01/09 --> 
+        </div>
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <h3 class="uk-article-title">Alumni</h3>
+        <ul class="uk-list uk-list-striped uk-list-line">
+            
+                
+                    
+                        <li class="uk-text-large"> <img height="30px" width="30px" class="uk-border-circle"  src="/rnomics/yanglab/static/image/photo/zhushanshan.png" alt="zhushanshan.png">
+                    
+                   
+
+
+                
+                    
+                       Shan-Shan Zhu, Ph.D, Bioinformatics Investigator at Novartis Institutes for BioMedical Research. (PostDoc, 2011-2014) <a href="http://cn.linkedin.com/pub/shanshan-zhu/7a/17/36b/en"><i class="uk-icon-external-link"></i></a></li>
+                    
+                   
+
+
+                
+
+            
+            
+                
+                    
+                        <li class="uk-text-large"> <img height="30px" width="30px" class="uk-border-circle"  src="/rnomics/yanglab/static/image/photo/fanghuahong.jpg" alt="fanghuahong.jpg">
+                    
+                   
+
+
+                
+                    
+                       Hua-Hong Fang, Shanghai Institute of Immunology, Shanghai Jiaotong University School of Medicine. (Research Associate, 2012-2015) <a href="https://cn.linkedin.com/in/华红-方-6b514591/en"><i class="uk-icon-external-link"></i></a></li>
+                    
+                   
+
+
+                
+
+            
+            
+                
+                    
+                        <li class="uk-text-large"> <img height="30px" width="30px" class="uk-border-circle"  src="/rnomics/yanglab/static/image/photo/wanghaibin.png" alt="wanghaibin.png">
+                    
+                   
+
+
+                
+                    
+                       Hai-Bin Wang, Ph.D, Attending physician, Department of Orthopedics, Shanghai Changzheng Hospital. (Joint supervision of Ph.D student, 2012-2015) <a href="http://www.shcz.com/"><i class="uk-icon-external-link"></i></a></li>
+                    
+                   
+
+
+                
+
+            
+            
+                
+                    
+                        <li class="uk-text-large"> <img height="30px" width="30px" class="uk-border-circle"  src="/rnomics/yanglab/static/image/photo/zhangxiaoou.jpg " alt="zhangxiaoou.jpg ">
+                    
+                   
+
+
+                
+                    
+                       Xiao-Ou Zhang, Postdoctoral Fellow, University of Massachusetts Medical School. (Ph.D student, 2011-2016) <a href="https://www.linkedin.com/in/kepbod "><i class="uk-icon-external-link"></i></a></li>
+                    
+                   
+
+
+                
+
+            
+            
+                
+                    
+                        <li class="uk-text-large"> <img height="30px" width="30px" class="uk-border-circle"  src="/rnomics/yanglab/static/image/photo/xiangjianfeng.png " alt="xiangjianfeng.png ">
+                    
+                   
+
+
+                
+                    
+                       Jian-Feng Xiang, Postdoctoral Fellow. (PostDoc, 2016-2017) <a href="https://scholar.google.com/citations?user=LpXCHlQAAAAJ&amp;hl=en "><i class="uk-icon-external-link"></i></a></li>
+                    
+                   
+
+
+                
+
+            
+            
+                
+                    
+                        <li class="uk-text-large"> <img height="30px" width="30px" class="uk-border-circle"  src="/rnomics/yanglab/static/image/photo/yangqin.jpg " alt="yangqin.jpg ">
+                    
+                   
+
+
+                
+                    
+                       Qin Yang, Postdoctoral Fellow, University of Miami. (Ph.D student, 2012-2018) <a href="https://www.researchgate.net/profile/Qin_Yang19 "><i class="uk-icon-external-link"></i></a></li>
+                    
+                   
+
+
+                
+
+            
+            
+                
+                    
+                        <li class="uk-text-large"> <img height="30px" width="30px" class="uk-border-circle"  src="/rnomics/yanglab/static/image/photo/dongrui.jpg " alt="dongrui.jpg ">
+                    
+                   
+
+
+                
+                    
+                       Rui Dong, Postdoctoral Fellow, Dana-Farber Cancer Institute. (Ph.D student, 2012-2017. Research Associate, 2017-2018) <a href="https://www.researchgate.net/profile/Rui_Dong19 "><i class="uk-icon-external-link"></i></a></li>
+                    
+                   
+
+
+                
+
+            
+            
+                
+                    
+                        <li class="uk-text-large"> <img height="30px" width="30px" class="uk-border-circle"  src="/rnomics/yanglab/static/image/photo/luozheng.jpg " alt="luozheng.jpg ">
+                    
+                   
+
+
+                
+                    
+                       Zheng Luo, Postdoctoral Fellow, Donnelly Centre for Cellular and Biomolecular Research, University of Toronto. (Ph.D student, 2013-2018) <a href="https://www.linkedin.com/in/luo-zheng-55462690/ "><i class="uk-icon-external-link"></i></a></li>
+                    
+                   
+
+
+                
+
+            
+            
+                
+                    
+                        <li class="uk-text-large"> <img height="30px" width="30px" class="uk-border-circle"  src="/rnomics/yanglab/static/image/photo/dongkaige.jpg " alt="dongkaige.jpg ">
+                    
+                   
+
+
+                
+                    
+                       Kai-Ge Dong, M.S., DEFINEX LIMITED. (Master&#39;s student, 2016-2019) <a href="https://www.linkedin.com/in/kaigedong/ "><i class="uk-icon-external-link"></i></a></li>
+                    
+                   
+
+
+                
+
+            
+            
+                
+                    
+                        <li class="uk-text-large"> <img height="30px" width="30px" class="uk-border-circle"  src="/rnomics/yanglab/static/image/photo/zhangjialin.jpg" alt="zhangjialin.jpg">
+                    
+                   
+
+
+                
+                    
+                       Jia-Lin Zhang, Ph.D, Postdoctoral Fellow, Hangzhou Institute for Advanced Study,  University of the Chinese Academy of Sciences. (Ph.D student, 2014-2020) <a href="http://hias.ucas.ac.cn/"><i class="uk-icon-external-link"></i></a></li>
+                    
+                   
+
+
+                
+
+            
+            
+        </ul>
+    </div>
+</div>
+
+
+        </article>
+
+        
+        <hr class="uk-grid-divider">
+<div class="uk-panel uk-text-center">
+    <p>Powered by <a href="http://getuikit.com">UIKit</a> and <a href="http://flask.pocoo.org">Flask</a>.</p>
+    <p>Copyright 2012-2018 Eukaryotic Transcriptomics (Yang Lab). All rights reserved.</p>
+</div>
+        
+
+    </div>
+
+    <div id="nav-offcanvas" class="uk-offcanvas">
+    <div class="uk-offcanvas-bar">
+        <ul class="uk-nav uk-nav-offcanvas" data-uk-nav>
+            <li><a href="/rnomics/yanglab/index"><i class="uk-icon-home"></i> Home</a></li>
+            <li><a href="/rnomics/yanglab/news"><i class="uk-icon-newspaper-o"></i> News</a></li>
+            <li><a href="/rnomics/yanglab/awards"><i class="uk-icon-newspaper-o"></i> Awards</a></li>
+            <li><a href="/rnomics/yanglab/pictures"><i class="uk-icon-picture-o"></i> Pictures</a></li>
+            <li><a href="/rnomics/yanglab/team"><i class="uk-icon-users"></i> Team</a></li>
+            <li><a href="/rnomics/yanglab/publications"><i class="uk-icon-file-text"></i> Publications</a></li>
+            <li><a href="/rnomics/yanglab/resources"><i class="uk-icon-wrench"></i> Resources</a></li>
+            <!--<li><a href="/rnomics/yanglab/SM"><i class="uk-icon-cubes"></i> Supplementary Materials</a></li>-->
+            <li><a href="/rnomics/yanglab/login"><i class="uk-icon-user"></i> Login</a></li>
+        </ul>
+    </div>
+</div>
+
+    <script type="text/javascript">
+    $('.uk-navbar a:contains("Team")').parent().addClass('uk-active');
+    $('.uk-nav a:contains("Team")').parent().addClass('uk-active');
+    </script>
+    <!-- Piwik -->
+    <script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="//www.picb.ac.cn/rnomics/piwik/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', 1]);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+    </script>
+    <noscript><p><img src="//www.picb.ac.cn/rnomics/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Piwik Code -->
+
+    
+
+</body>
+
+</html>

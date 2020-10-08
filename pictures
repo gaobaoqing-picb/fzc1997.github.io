@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Pictures of Eukaryotic Transcriptomics -- PICB">
+    <meta name="author" content="Eukaryotic Transcriptomics -- PICB">
+    <link rel="shortcut icon" href="/rnomics/yanglab/static/image/favicon.ico">
+    <title>Eukaryotic Transcriptomics (Yang Lab) -- PICB</title>
+
+    
+    <link rel="stylesheet" href="/rnomics/yanglab/static/css/uikit.almost-flat.min.css" type="text/css">
+    <link rel="stylesheet" href="/rnomics/yanglab/static/css/components/sticky.almost-flat.min.css" type="text/css">
+    <script src="/rnomics/yanglab/static/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/rnomics/yanglab/static/js/uikit.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/rnomics/yanglab/static/js/components/sticky.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/rnomics/yanglab/static/js/components/grid.min.js" type="text/javascript" charset="utf-8"></script>
+    
+
+</head>
+
+<body>
+
+    
+
+    <div class="uk-container uk-container-center uk-margin-large-top uk-margin-large-bottom">
+
+        <div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <h1><img src="/rnomics/yanglab/static/image/favicon.png" alt="logo">Eukaryotic Transcriptomics (Yang Lab)</h1>
+        <h2><a class="uk-link-muted" href="http://www.picb.ac.cn">CAS-MPG Partner Institute for Computational Biology</a>, <a class="uk-link-muted" href="http://english.sibs.cas.cn">SIBS</a>, <a class="uk-link-muted" href="http://english.cas.cn">CAS</a></h2>
+    </div>
+</div>
+
+        <nav class="uk-navbar uk-margin-top uk-margin-bottom" data-uk-sticky="{top:-50}">
+    <a class="uk-navbar-brand uk-hidden-small" href="#">Yang Lab</a>
+    <ul class="uk-navbar-nav uk-hidden-small">
+        <li><a href="/rnomics/yanglab/index"><i class="uk-icon-home"></i> Home</a></li>
+       <!-- <li><a href="/rnomics/yanglab/research"><i class="uk-icon-laptop"></i> Research</a></li>  -->
+        <li><a href="/rnomics/yanglab/news"><i class="uk-icon-newspaper-o"></i> News</a></li>
+        
+        <li><a href="/rnomics/yanglab/team"><i class="uk-icon-users"></i> Team</a></li>
+        <li><a href="/rnomics/yanglab/publications"><i class="uk-icon-file-text"></i> Publications</a></li>
+
+        <li><a href="/rnomics/yanglab/awards"><i class="uk-icon-star"></i> Awards</a></li>
+        <li><a href="/rnomics/yanglab/pictures"><i class="uk-icon-picture-o"></i> Pictures</a></li>
+
+        <li><a href="/rnomics/yanglab/resources"><i class="uk-icon-wrench"></i> Resources</a></li>
+        <!--<li><a href="/rnomics/yanglab/SM"><i class="uk-icon-cubes"></i> Supplementary Materials</a></li>-->
+    </ul>
+    <div class="uk-navbar-flip uk-hidden-small">
+        <ul class="uk-navbar-nav">
+            <li><a href="/rnomics/yanglab/login"><i class="uk-icon-user"></i> Login</a></li>
+        </ul>
+    </div>
+    <a href="#nav-offcanvas" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas></a>
+    <div class="uk-navbar-brand uk-navbar-center uk-visible-small">Yang Lab</div>
+</nav>
+
+        <article class="uk-article">
+
+            
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <h2 class="uk-article-title">Lab Pictures</h2>
+    </div>
+</div>
+
+
+<!--<div class="uk-grid" data-uk-grid-margin data-uk-scrollspy="{cls:'uk-animation-fade', target:'div > .uk-panel', delay:5, repeat:true}">-->
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <div class="uk-panel">
+            <h2>2019</h2>
+        </div>
+        <div class="uk-grid-width-small-1-2 uk-grid-width-medium-1-3 uk-grid-width-large-1-3" data-uk-grid="{gutter: 20}">
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2019/20191219_winter2.jpg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2019/20191219_winter1.jpg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2019/20190520-disneyland-2.jpeg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2019/20190520-disneyland-1.jpeg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2019/20190520-disneyland.jpeg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        </div>
+    </div>
+</div>
+
+<!--<div class="uk-grid" data-uk-grid-margin data-uk-scrollspy="{cls:'uk-animation-fade', target:'div > .uk-panel', delay:5, repeat:true}">-->
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <div class="uk-panel">
+            <h2>2018</h2>
+        </div>
+        <div class="uk-grid-width-small-1-2 uk-grid-width-medium-1-3 uk-grid-width-large-1-3" data-uk-grid="{gutter: 20}">
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2018/20181130/Ying_first%20author%20talk-2.jpeg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2018/20181130/Ying_first%20author%20talk-1.jpeg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2018/20181115/Zheng_dissertation-group_photo.jpg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2018/20181115/Zheng_dissertation-all_judges.jpg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2018/20180929/trampoline_park_1.jpeg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2018/20180929/trampoline_park_2.jpeg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2018/319_lawn.jpeg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2018/319_lawn2.jpeg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2018/Biophysical%20building.jpeg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2018/Biophysical_stairs.jpeg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2018/li_qin.jpg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2018/pi_qin.jpg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2018/lab_qin1.jpg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2018/lab_qin2.jpg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        </div>
+    </div>
+</div>
+
+<!--<div class="uk-grid" data-uk-grid-margin data-uk-scrollspy="{cls:'uk-animation-fade', target:'div > .uk-panel', delay:5, repeat:true}">-->
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <div class="uk-panel">
+            <h2>2017</h2>
+        </div>
+        <div class="uk-grid-width-small-1-2 uk-grid-width-medium-1-3 uk-grid-width-large-1-3" data-uk-grid="{gutter: 20}">
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2017/2017_dongrui_biye.jpg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2017/biye/rui_talk.jpg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2017/biye/rui_li.jpg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2017/biye/rui_pi.jpg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2017/team_2017dong.jpg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        </div>
+    </div>
+</div>
+
+<!--<div class="uk-grid" data-uk-grid-margin data-uk-scrollspy="{cls:'uk-animation-fade', target:'div > .uk-panel', delay:5, repeat:true}">-->
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <div class="uk-panel">
+            <h2>2016</h2>
+        </div>
+        <div class="uk-grid-width-small-1-2 uk-grid-width-medium-1-3 uk-grid-width-large-1-3" data-uk-grid="{gutter: 20}">
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2016/team_2016.jpg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2016/city_hiking_team_1.jpg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2016/city_hiking_team_2.jpg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2016/city_hiking_team_name.jpg" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        </div>
+    </div>
+</div>
+
+<!--<div class="uk-grid" data-uk-grid-margin data-uk-scrollspy="{cls:'uk-animation-fade', target:'div > .uk-panel', delay:5, repeat:true}">-->
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <div class="uk-panel">
+            <h2>2015</h2>
+        </div>
+        <div class="uk-grid-width-small-1-2 uk-grid-width-medium-1-3 uk-grid-width-large-1-3" data-uk-grid="{gutter: 20}">
+        
+        <!--<div class="uk-panel">-->
+        <!--<div class="uk-align-left">-->
+            <img src="/rnomics/yanglab/static/image/pics/2015/team_2015" />
+        <!--</div>-->
+        <!--</div>-->
+        
+        </div>
+    </div>
+</div>
+
+
+
+        </article>
+
+        
+        <hr class="uk-grid-divider">
+<div class="uk-panel uk-text-center">
+    <p>Powered by <a href="http://getuikit.com">UIKit</a> and <a href="http://flask.pocoo.org">Flask</a>.</p>
+    <p>Copyright 2012-2018 Eukaryotic Transcriptomics (Yang Lab). All rights reserved.</p>
+</div>
+        
+
+    </div>
+
+    <div id="nav-offcanvas" class="uk-offcanvas">
+    <div class="uk-offcanvas-bar">
+        <ul class="uk-nav uk-nav-offcanvas" data-uk-nav>
+            <li><a href="/rnomics/yanglab/index"><i class="uk-icon-home"></i> Home</a></li>
+            <li><a href="/rnomics/yanglab/news"><i class="uk-icon-newspaper-o"></i> News</a></li>
+            <li><a href="/rnomics/yanglab/awards"><i class="uk-icon-newspaper-o"></i> Awards</a></li>
+            <li><a href="/rnomics/yanglab/pictures"><i class="uk-icon-picture-o"></i> Pictures</a></li>
+            <li><a href="/rnomics/yanglab/team"><i class="uk-icon-users"></i> Team</a></li>
+            <li><a href="/rnomics/yanglab/publications"><i class="uk-icon-file-text"></i> Publications</a></li>
+            <li><a href="/rnomics/yanglab/resources"><i class="uk-icon-wrench"></i> Resources</a></li>
+            <!--<li><a href="/rnomics/yanglab/SM"><i class="uk-icon-cubes"></i> Supplementary Materials</a></li>-->
+            <li><a href="/rnomics/yanglab/login"><i class="uk-icon-user"></i> Login</a></li>
+        </ul>
+    </div>
+</div>
+
+    <script type="text/javascript">
+    $('.uk-navbar a:contains("Pictures")').parent().addClass('uk-active');
+    $('.uk-nav a:contains("Pictures")').parent().addClass('uk-active');
+    </script>
+    <!-- Piwik -->
+    <script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="//www.picb.ac.cn/rnomics/piwik/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', 1]);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+    </script>
+    <noscript><p><img src="//www.picb.ac.cn/rnomics/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Piwik Code -->
+
+    
+
+</body>
+
+</html>

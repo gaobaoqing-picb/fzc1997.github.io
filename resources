@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Resources of Eukaryotic Transcriptomics -- PICB">
+    <meta name="author" content="Eukaryotic Transcriptomics -- PICB">
+    <link rel="shortcut icon" href="/rnomics/yanglab/static/image/favicon.ico">
+    <title>Eukaryotic Transcriptomics (Yang Lab) -- PICB</title>
+
+    
+    <link rel="stylesheet" href="/rnomics/yanglab/static/css/uikit.almost-flat.min.css" type="text/css">
+    <link rel="stylesheet" href="/rnomics/yanglab/static/css/components/sticky.almost-flat.min.css" type="text/css">
+    <script src="/rnomics/yanglab/static/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/rnomics/yanglab/static/js/uikit.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/rnomics/yanglab/static/js/components/sticky.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/rnomics/yanglab/static/js/components/grid.min.js" type="text/javascript" charset="utf-8"></script>
+    
+
+</head>
+
+<body>
+
+    
+
+    <div class="uk-container uk-container-center uk-margin-large-top uk-margin-large-bottom">
+
+        <div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <h1><img src="/rnomics/yanglab/static/image/favicon.png" alt="logo">Eukaryotic Transcriptomics (Yang Lab)</h1>
+        <h2><a class="uk-link-muted" href="http://www.picb.ac.cn">CAS-MPG Partner Institute for Computational Biology</a>, <a class="uk-link-muted" href="http://english.sibs.cas.cn">SIBS</a>, <a class="uk-link-muted" href="http://english.cas.cn">CAS</a></h2>
+    </div>
+</div>
+
+        <nav class="uk-navbar uk-margin-top uk-margin-bottom" data-uk-sticky="{top:-50}">
+    <a class="uk-navbar-brand uk-hidden-small" href="#">Yang Lab</a>
+    <ul class="uk-navbar-nav uk-hidden-small">
+        <li><a href="/rnomics/yanglab/index"><i class="uk-icon-home"></i> Home</a></li>
+       <!-- <li><a href="/rnomics/yanglab/research"><i class="uk-icon-laptop"></i> Research</a></li>  -->
+        <li><a href="/rnomics/yanglab/news"><i class="uk-icon-newspaper-o"></i> News</a></li>
+        
+        <li><a href="/rnomics/yanglab/team"><i class="uk-icon-users"></i> Team</a></li>
+        <li><a href="/rnomics/yanglab/publications"><i class="uk-icon-file-text"></i> Publications</a></li>
+
+        <li><a href="/rnomics/yanglab/awards"><i class="uk-icon-star"></i> Awards</a></li>
+        <li><a href="/rnomics/yanglab/pictures"><i class="uk-icon-picture-o"></i> Pictures</a></li>
+
+        <li><a href="/rnomics/yanglab/resources"><i class="uk-icon-wrench"></i> Resources</a></li>
+        <!--<li><a href="/rnomics/yanglab/SM"><i class="uk-icon-cubes"></i> Supplementary Materials</a></li>-->
+    </ul>
+    <div class="uk-navbar-flip uk-hidden-small">
+        <ul class="uk-navbar-nav">
+            <li><a href="/rnomics/yanglab/login"><i class="uk-icon-user"></i> Login</a></li>
+        </ul>
+    </div>
+    <a href="#nav-offcanvas" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas></a>
+    <div class="uk-navbar-brand uk-navbar-center uk-visible-small">Yang Lab</div>
+</nav>
+
+        <article class="uk-article">
+
+            
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <h2 class="uk-article-title">Softwares</h2>
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin>
+    
+    
+    <div class="uk-width-medium-1-2">
+        <div class="uk-panel uk-panel-box uk-panel-header">	
+            <h2 class="uk-panel-title">CIRCexplorer1</h2>
+            <p class="uk-article-lead">A combined strategy to identify junction reads from back spliced exons and intron lariats.</p>
+            <a href="http://www.ncbi.nlm.nih.gov/pubmed/25242744" class="uk-icon-button uk-icon-file-text-o"></a>
+            <a href="https://github.com/YangLab/CIRCexplorer" class="uk-icon-button uk-icon-github"></a>
+        </div>
+    </div>
+    
+    
+    
+    <div class="uk-width-medium-1-2">
+        <div class="uk-panel uk-panel-box uk-panel-header">	
+            <h2 class="uk-panel-title">CIRCexplorer2</h2>
+            <p class="uk-article-lead">CIRCexplorer2 is the successor of CIRCexplorer with plenty of new features to facilitate circular RNA identification and characterization.</p>
+            <a href="http://genome.cshlp.org/content/early/2016/06/30/gr.202895.115.abstract" class="uk-icon-button uk-icon-file-text-o"></a>
+            <a href="https://github.com/YangLab/CIRCexplorer2" class="uk-icon-button uk-icon-github"></a>
+        </div>
+    </div>
+    
+    
+    
+    <div class="uk-width-medium-1-2">
+        <div class="uk-panel uk-panel-box uk-panel-header">	
+            <h2 class="uk-panel-title">CIRCpseudo</h2>
+            <p class="uk-article-lead">CIRCpseudo is a pipeline to map back-splicing junction sequences for circRNA-derived pseudogenes detection. Using this pipeline, you could previously detect circRNA-derived pseudogenes in genome, after maual check you could do further characterizations for them.</p>
+            <a href="http://www.ncbi.nlm.nih.gov/pubmed/27021280" class="uk-icon-button uk-icon-file-text-o"></a>
+            <a href="https://github.com/YangLab/CIRCpseudo" class="uk-icon-button uk-icon-github"></a>
+        </div>
+    </div>
+    
+    
+    
+    <div class="uk-width-medium-1-2">
+        <div class="uk-panel uk-panel-box uk-panel-header">	
+            <h2 class="uk-panel-title">CIRCfinder</h2>
+            <p class="uk-article-lead">CIRCfinder is a pipeline to map junction reads for circular intronic RNAs (ciRNAs). Using this pipeline, you could determine the exact boundaries of interested ciRNAs, so that you could do further characterizations for them.</p>
+            <a href="http://www.ncbi.nlm.nih.gov/pubmed/24035497" class="uk-icon-button uk-icon-file-text-o"></a>
+            <a href="https://github.com/YangLab/CIRCfinder" class="uk-icon-button uk-icon-github"></a>
+        </div>
+    </div>
+    
+    
+    
+    <div class="uk-width-medium-1-2">
+        <div class="uk-panel uk-panel-box uk-panel-header">	
+            <h2 class="uk-panel-title">TERate</h2>
+            <p class="uk-article-lead">TERate is a computational pipeline to measure transcription elongation rates (TERs) with 4sUDRB-Seq.</p>
+            <a href="http://www.cell.com/cell-reports/fulltext/S2211-1247(16)30329-1?rss=yes" class="uk-icon-button uk-icon-file-text-o"></a>
+            <a href="https://github.com/YangLab/TERate" class="uk-icon-button uk-icon-github"></a>
+        </div>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="uk-width-medium-1-2">
+        <div class="uk-panel uk-panel-box uk-panel-header">	
+            <h2 class="uk-panel-title">CLEAR/CIRCexplorer3</h2>
+            <p class="uk-article-lead">CLEAR is a computational pipeline for circular and linear RNA expression analysis from ribosomal-RNA depleted RNA-seq.</p>
+            <a href="https://www.sciencedirect.com/science/article/pii/S1672022919301664?via%3Dihub" class="uk-icon-button uk-icon-file-text-o"></a>
+            <a href="https://github.com/YangLab/CLEAR" class="uk-icon-button uk-icon-github"></a>
+        </div>
+    </div>
+    
+    
+    
+    <div class="uk-width-medium-1-2">
+        <div class="uk-panel uk-panel-box uk-panel-header">	
+            <h2 class="uk-panel-title">bsRNA-seq-m5C</h2>
+            <p class="uk-article-lead">bsRNA-seq-m5C is a pipeline for m5C calling.</p>
+            <a href="https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-020-00769-5" class="uk-icon-button uk-icon-file-text-o"></a>
+            <a href="https://github.com/YangLab/bsRNA-seq-m5C" class="uk-icon-button uk-icon-github"></a>
+        </div>
+    </div>
+    
+    
+    
+    <div class="uk-width-medium-1-2">
+        <div class="uk-panel uk-panel-box uk-panel-header">	
+            <h2 class="uk-panel-title">CSI</h2>
+            <p class="uk-article-lead">CSI is a pipeline to quantitate RNA pairing capacity of orientation-opposite
+complementary sequences across circRNA-flanking introns.</p>
+            <a href="https://www.tandfonline.com/doi/full/10.1080/15476286.2016.1269999" class="uk-icon-button uk-icon-file-text-o"></a>
+            <a href="https://github.com/YangLab/CSI" class="uk-icon-button uk-icon-github"></a>
+        </div>
+    </div>
+    
+    
+    
+    <div class="uk-width-medium-1-2">
+        <div class="uk-panel uk-panel-box uk-panel-header">	
+            <h2 class="uk-panel-title">CIRCshapemapper</h2>
+            <p class="uk-article-lead">CIRCshapemapper is a pipeline to analyze circSHAPE-MaP for circRNA secondary structure prediction.</p>
+            <a href="https://www.cell.com/cell/fulltext/S0092-8674(19)30347-2?rss=yes" class="uk-icon-button uk-icon-file-text-o"></a>
+            <a href="https://github.com/YangLab/CIRCshapemapper" class="uk-icon-button uk-icon-github"></a>
+        </div>
+    </div>
+    
+    
+    
+    <div class="uk-width-medium-1-2">
+        <div class="uk-panel uk-panel-box uk-panel-header">	
+            <h2 class="uk-panel-title">RADAR</h2>
+            <p class="uk-article-lead">RADAR is a pipeline to detect and visualize all possible twelve-types of RNA editing events from RNA-seq datasets.</p>
+            <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(20)30700-2" class="uk-icon-button uk-icon-file-text-o"></a>
+            <a href="https://github.com/YangLab/RADAR" class="uk-icon-button uk-icon-github"></a>
+        </div>
+    </div>
+    
+    
+</div>
+
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <h2 class="uk-article-title">Databases</h2>
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <div class="uk-width-medium-1-2">
+        <div class="uk-panel uk-panel-box uk-panel-header">	
+            <h2 class="uk-panel-title">CIRCpedia</h2>
+            <p class="uk-article-lead">CIRCpedia is an integrative database, aiming to annotating alternative back-splicing and alternative splicing in circRNAs across different cell lines. </p>
+            <a href="http://genome.cshlp.org/content/early/2016/06/30/gr.202895.115.abstract" class="uk-icon-button uk-icon-file-text-o"></a>
+            <a href="http://www.picb.ac.cn/rnomics/circpedia_v1" class="uk-icon-button uk-icon-database"></a>
+        </div>
+    </div>
+    
+    
+    
+    <div class="uk-width-medium-1-2">
+        <div class="uk-panel uk-panel-box uk-panel-header">	
+            <h2 class="uk-panel-title">CIRCpedia v2</h2>
+            <p class="uk-article-lead">CIRCpedia v2 is an updated circRNA database with integrated information of circRNA annotation, expression, and conservation.</p>
+            <a href="http://www.picb.ac.cn/rnomics/yanglab/static/publication_pdf/2018_GPB_CIRCpediaV2.pdf" class="uk-icon-button uk-icon-file-text-o"></a>
+            <a href="http://www.picb.ac.cn/rnomics/circpedia/" class="uk-icon-button uk-icon-database"></a>
+        </div>
+    </div>
+    
+    
+    
+    <div class="uk-width-medium-1-2">
+        <div class="uk-panel uk-panel-box uk-panel-header">	
+            <h2 class="uk-panel-title">BEable-GPS</h2>
+            <p class="uk-article-lead">BEable-GPS is a database to profile the accessibility of BEs for targeting pathogenic SNVs and provide gRNA designs for pathogenic SNVs and genomic targets.</p>
+            <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1839-4" class="uk-icon-button uk-icon-file-text-o"></a>
+            <a href="http://www.picb.ac.cn/rnomics/BEable-GPS" class="uk-icon-button uk-icon-database"></a>
+        </div>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</div>
+
+
+        </article>
+
+        
+        <hr class="uk-grid-divider">
+<div class="uk-panel uk-text-center">
+    <p>Powered by <a href="http://getuikit.com">UIKit</a> and <a href="http://flask.pocoo.org">Flask</a>.</p>
+    <p>Copyright 2012-2018 Eukaryotic Transcriptomics (Yang Lab). All rights reserved.</p>
+</div>
+        
+
+    </div>
+
+    <div id="nav-offcanvas" class="uk-offcanvas">
+    <div class="uk-offcanvas-bar">
+        <ul class="uk-nav uk-nav-offcanvas" data-uk-nav>
+            <li><a href="/rnomics/yanglab/index"><i class="uk-icon-home"></i> Home</a></li>
+            <li><a href="/rnomics/yanglab/news"><i class="uk-icon-newspaper-o"></i> News</a></li>
+            <li><a href="/rnomics/yanglab/awards"><i class="uk-icon-newspaper-o"></i> Awards</a></li>
+            <li><a href="/rnomics/yanglab/pictures"><i class="uk-icon-picture-o"></i> Pictures</a></li>
+            <li><a href="/rnomics/yanglab/team"><i class="uk-icon-users"></i> Team</a></li>
+            <li><a href="/rnomics/yanglab/publications"><i class="uk-icon-file-text"></i> Publications</a></li>
+            <li><a href="/rnomics/yanglab/resources"><i class="uk-icon-wrench"></i> Resources</a></li>
+            <!--<li><a href="/rnomics/yanglab/SM"><i class="uk-icon-cubes"></i> Supplementary Materials</a></li>-->
+            <li><a href="/rnomics/yanglab/login"><i class="uk-icon-user"></i> Login</a></li>
+        </ul>
+    </div>
+</div>
+
+    <script type="text/javascript">
+    $('.uk-navbar a:contains("Resources")').parent().addClass('uk-active');
+    $('.uk-nav a:contains("Resources")').parent().addClass('uk-active');
+    </script>
+    <!-- Piwik -->
+    <script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="//www.picb.ac.cn/rnomics/piwik/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', 1]);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+    </script>
+    <noscript><p><img src="//www.picb.ac.cn/rnomics/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Piwik Code -->
+
+    
+
+</body>
+
+</html>

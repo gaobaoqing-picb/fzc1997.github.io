@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Research of Eukaryotic Transcriptomics -- PICB">
+    <meta name="author" content="Eukaryotic Transcriptomics -- PICB">
+    <link rel="shortcut icon" href="/rnomics/yanglab/static/image/favicon.ico">
+    <title>Eukaryotic Transcriptomics (Yang Lab) -- PICB</title>
+
+    
+    <link rel="stylesheet" href="/rnomics/yanglab/static/css/uikit.almost-flat.min.css" type="text/css">
+    <link rel="stylesheet" href="/rnomics/yanglab/static/css/components/sticky.almost-flat.min.css" type="text/css">
+    <script src="/rnomics/yanglab/static/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/rnomics/yanglab/static/js/uikit.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/rnomics/yanglab/static/js/components/sticky.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/rnomics/yanglab/static/js/components/grid.min.js" type="text/javascript" charset="utf-8"></script>
+    
+
+</head>
+
+<body>
+
+    
+
+    <div class="uk-container uk-container-center uk-margin-large-top uk-margin-large-bottom">
+
+        <div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <h1><img src="/rnomics/yanglab/static/image/favicon.png" alt="logo">Eukaryotic Transcriptomics (Yang Lab)</h1>
+        <h2><a class="uk-link-muted" href="http://www.picb.ac.cn">CAS-MPG Partner Institute for Computational Biology</a>, <a class="uk-link-muted" href="http://english.sibs.cas.cn">SIBS</a>, <a class="uk-link-muted" href="http://english.cas.cn">CAS</a></h2>
+    </div>
+</div>
+
+        <nav class="uk-navbar uk-margin-top uk-margin-bottom" data-uk-sticky="{top:-50}">
+    <a class="uk-navbar-brand uk-hidden-small" href="#">Yang Lab</a>
+    <ul class="uk-navbar-nav uk-hidden-small">
+        <li><a href="/rnomics/yanglab/index"><i class="uk-icon-home"></i> Home</a></li>
+       <!-- <li><a href="/rnomics/yanglab/research"><i class="uk-icon-laptop"></i> Research</a></li>  -->
+        <li><a href="/rnomics/yanglab/news"><i class="uk-icon-newspaper-o"></i> News</a></li>
+        
+        <li><a href="/rnomics/yanglab/team"><i class="uk-icon-users"></i> Team</a></li>
+        <li><a href="/rnomics/yanglab/publications"><i class="uk-icon-file-text"></i> Publications</a></li>
+
+        <li><a href="/rnomics/yanglab/awards"><i class="uk-icon-star"></i> Awards</a></li>
+        <li><a href="/rnomics/yanglab/pictures"><i class="uk-icon-picture-o"></i> Pictures</a></li>
+
+        <li><a href="/rnomics/yanglab/resources"><i class="uk-icon-wrench"></i> Resources</a></li>
+        <!--<li><a href="/rnomics/yanglab/SM"><i class="uk-icon-cubes"></i> Supplementary Materials</a></li>-->
+    </ul>
+    <div class="uk-navbar-flip uk-hidden-small">
+        <ul class="uk-navbar-nav">
+            <li><a href="/rnomics/yanglab/login"><i class="uk-icon-user"></i> Login</a></li>
+        </ul>
+    </div>
+    <a href="#nav-offcanvas" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas></a>
+    <div class="uk-navbar-brand uk-navbar-center uk-visible-small">Yang Lab</div>
+</nav>
+
+        <article class="uk-article">
+
+            
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <h2 class="uk-article-title">Research</h2>
+    </div>
+</div>
+
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-1-1">
+        <p>RNA regulation has important roles in shaping cell fate and organism development, functioning to diversify genetic outputs and providing multiple regulatory layers at which gene expression can be finely controlled. Our earlier studies have characterized new types of structured lncRNAs, including nonpolyadnylated sno-lncRNAs and circular RNAs from excised introns or back-spliced exons, as well as polyadnylated lncRNAs such as 5' snoRNA capped, 3' polyadenylated lncRNAs (SPAs). In addition to studies of lncRNAs, we have revealed a previously underappreciated interplay between m6A modification and A-to-I editing, highlighting a complex epitranscriptomic landscape. Very recently, with developed high-throughput methods in the lab, we have collaborated to identify the mutagenesis induced by APOBEC3 in the repair of CRISPR/Cas9-generated DNA breaks and to set up a spectrum of CRISPR/Cas-based base editing systems (e.g. Cas9-eBEs, Cpf1-BEs and hA3A-BEs).</p>
+
+<p>These recent progresses inspire us to continue deciphering the complex regulation at multiple levels. For example, what are the structures of lncRNAs/circular RNAs and how these structures determine functions? How do lncRNAs/circular RNAs incorporate into biological pathways? What are the features and roles of lncRNAs/circular RNAs in multiple subcellular bodies? In addition, complex regulation networks among epitranscriptomics are needed to be further investigated. To address these questions, we are carrying out a series of work to focus on decoding the regulatory network of lncRNAs/circular RNAs across species. We will further improve computational algorithms for lncRNA/circular RNA identification and functional analyses. With the application of high-throughput screening of associated protein factors, we are in the progress of systematical profiling various lncRNA/circular RNAs associated proteins. We are also performing structure prediction by taking advantage of the state-of-art technologies including SHAPE-MaP to resolve RNA secondary structure of lncRNAs/circular RNAs and to link structures with functions. In summary, we focus on developing and applying novel computational and experimental methodologies to decipher the complex gene expression regulation at the genome-wide level.</p>
+    </div>
+</div>
+
+
+
+        </article>
+
+        
+        <hr class="uk-grid-divider">
+<div class="uk-panel uk-text-center">
+    <p>Powered by <a href="http://getuikit.com">UIKit</a> and <a href="http://flask.pocoo.org">Flask</a>.</p>
+    <p>Copyright 2012-2018 Eukaryotic Transcriptomics (Yang Lab). All rights reserved.</p>
+</div>
+        
+
+    </div>
+
+    <div id="nav-offcanvas" class="uk-offcanvas">
+    <div class="uk-offcanvas-bar">
+        <ul class="uk-nav uk-nav-offcanvas" data-uk-nav>
+            <li><a href="/rnomics/yanglab/index"><i class="uk-icon-home"></i> Home</a></li>
+            <li><a href="/rnomics/yanglab/news"><i class="uk-icon-newspaper-o"></i> News</a></li>
+            <li><a href="/rnomics/yanglab/awards"><i class="uk-icon-newspaper-o"></i> Awards</a></li>
+            <li><a href="/rnomics/yanglab/pictures"><i class="uk-icon-picture-o"></i> Pictures</a></li>
+            <li><a href="/rnomics/yanglab/team"><i class="uk-icon-users"></i> Team</a></li>
+            <li><a href="/rnomics/yanglab/publications"><i class="uk-icon-file-text"></i> Publications</a></li>
+            <li><a href="/rnomics/yanglab/resources"><i class="uk-icon-wrench"></i> Resources</a></li>
+            <!--<li><a href="/rnomics/yanglab/SM"><i class="uk-icon-cubes"></i> Supplementary Materials</a></li>-->
+            <li><a href="/rnomics/yanglab/login"><i class="uk-icon-user"></i> Login</a></li>
+        </ul>
+    </div>
+</div>
+
+    <script type="text/javascript">
+    $('.uk-navbar a:contains("Research")').parent().addClass('uk-active');
+    $('.uk-nav a:contains("Research")').parent().addClass('uk-active');
+    </script>
+    <!-- Piwik -->
+    <script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="//www.picb.ac.cn/rnomics/piwik/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', 1]);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+    </script>
+    <noscript><p><img src="//www.picb.ac.cn/rnomics/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Piwik Code -->
+
+    
+
+</body>
+
+</html>
